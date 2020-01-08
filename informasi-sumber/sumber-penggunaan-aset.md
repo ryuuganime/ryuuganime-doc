@@ -26,9 +26,8 @@ _N.B: Beberapa tipografi digunakan dalam website anime yang tidak memiliki logo 
 * [Microsoft](https://microsoft.com)® [Visual Studio Code](https://code.visualstudio.com) : Penyuntingan _code_ dan _markdown_.
 * [GitHub](https://github.com) : Repositori desain dan _database_ situs.
 * [EZGif](https://ezgif.com) : _Converter_ ekstensi WebP ke JPEG/PNG.
-* [Disqus](https://disqus.com) : Layanan Jasa Komentar Blog.
 * [Paint.NET](https://www.getpaint.net/) 4.1.6 : Penyuntingan Gambar/Vector.
-* [AceFile](https://acefile.co) : Layanan _sharing_ berkas melalui Google Drive.
+* [Inkscape](https://inkscape.org/) 0.92.3: Penyuntingan Vektor SVG.
 
 _N.B: Daftar ini masih dalam tahap pengembangan seiring perkembangan situs._
 
