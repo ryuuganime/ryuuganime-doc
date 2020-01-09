@@ -12,4 +12,6 @@ Berikut tata cara menginput data:
 2. Buka SIMKL, cari anime yang dituju, dan lakukan pencarian ke situs.
 3. Pada baris pertama, yaitu pada `<img src="" width="640" />`, isilah link gambar _backdrop_ dari situs The Movie DB ataupun TVDB di antara tanda kutip di `src=""`.
 4. Kemudian, isilah sinopsis yang terdapat di Otak Otaku dengan cara menyalin dan tempelkan di samping kanan setelah `<p>&emsp;&emsp;` dan sebelum `</p>`
-5. 
+5. Selanjutnya, cantumkan nama situs yang dipakai untuk sinopsis di `<i>Sumber:` 
+6. Untuk Judul alternatif, dapat dilihat di sini.
+

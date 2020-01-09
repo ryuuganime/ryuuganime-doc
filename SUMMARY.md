@@ -14,8 +14,8 @@
 
 ## Informasi Sumber
 
-* [Situs Tracking Yang Digunakan](informasi-sumber/situs-tracking-yang-digunakan/README.md)
-  * [Sumber Situs untuk Database Anime](informasi-sumber/situs-tracking-yang-digunakan/sumber-situs-untuk-database-anime.md)
+* [Situs Tracking Yang Digunakan](informasi-sumber/situs-tracking-yang-digunakan.md)
+* [Sumber Situs untuk Database Anime](informasi-sumber/sumber-situs-untuk-database-anime.md)
 * [Template](informasi-sumber/template.md)
 * [Sumber Penggunaan Aset](informasi-sumber/sumber-penggunaan-aset.md)
 

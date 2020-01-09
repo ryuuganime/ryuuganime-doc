@@ -4,7 +4,7 @@
 
 Ryuuganime merupakan situs portal indeks [_anime_](https://id.wikipedia.org/wiki/Anime) bersubtitel bahasa Indonesia maupun bahasa Inggris yang menggabungkan tautan _streaming_/unduhan resmi \(_official_\), _fansub_, dan _fanshare_ \(termasuk _batch_\) ke dalam satu laman lengkap dengan ulasan dan skor _anime_ dari hampir 20 situs _tracking anime_ dan TV-Movie terkenal.
 
-Informasi mengenai _tracker_ yang digunakan oleh Ryuuganime dapat dilihat [disini](informasi-sumber/situs-tracking-yang-digunakan/).
+Informasi mengenai _tracker_ yang digunakan oleh Ryuuganime dapat dilihat [disini](informasi-sumber/situs-tracking-yang-digunakan.md).
 
 ## Siapa Saja yang Mengelola Situs Ini?
 
