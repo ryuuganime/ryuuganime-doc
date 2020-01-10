@@ -1,8 +1,8 @@
 # Kontribusi Informasi Entri Anime
 
 > Sebelum melanjutkan, pastikan Anda dapat mengakses website yang telah didaftar di [sini](../../informasi-sumber/situs-tracking-yang-digunakan.md).  
-> Disarankan untuk memiliki akun SIMKL untuk mempermudah dalam input data. Lihat di [sini](mencari-entri-web-lain-di-simkl.md).  
-> Anda juga disarankan untuk telah meng-fork repo Ryuuganime, memasang aplikasi Git dan Visual Studio Code versi terbaru
+> Disarankan untuk memiliki ekstensi SIMKL Search untuk mempermudah dalam input data. Lihat di [sini](mencari-entri-web-lain-di-simkl.md).  
+> Anda juga disarankan untuk telah meng-_fork_ repo Ryuuganime, memasang aplikasi Git dan Visual Studio Code versi terbaru
 
 Berikut tata cara menginput data:
 
@@ -19,6 +19,10 @@ Berikut tata cara menginput data:
 8. Lalu, pada informasi episode, isi sesuai yang tertera di MyAnimeList ataupun SIMKL.
 9. Untuk informasi status, memiliki beberapa kasus. Anda dapat melihat rinciannya di [sini](status-penayangan.md).
 10. Pengisian informasi _genre_ dan _tag_ dapat dilihat di [sini ](genre-dan-tag.md)mengingat bedanya penggolongan _genre anime_ di MyAnimeList, dst dengan Ryuuganime.
-11. Pada saat isi informasi musim, Anda hanya perlu mengisi di bagian `title="Dirilis pada"` di tag `div` dan  &lt;a href="https://ryuuganime.blogspot.com/search/label/&gt;&lt;/a&gt; saja. Tata cara pengisian dapat dilihat di [sini](musim.md).
+11. Pada saat isi informasi musim, Anda hanya perlu mengisi di bagian `title="Dirilis pada"` di tag `div` dan  `<a href="https://ryuuganime.blogspot.com/search/label/></a>` saja. Tata cara pengisian dapat dilihat di [sini](musim.md).
 12. Isi durasi per episode dalam satuan menit.
-13. 
+13. Petunjuk pengisian studio dapat dilihat di [sini](studio.md), mengingat beberapa nama studio menggunakan aksara Latin lanjutan.
+14. Isilah informasi rating sesuai dengan yang tercantum di MAL, AniList, IMDb, atau TVDB.
+15. Sumber Adaptasi dapat dilihat dari MAL.
+16. Asal Negara dapat dikosongkan.
+
