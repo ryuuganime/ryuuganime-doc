@@ -1,102 +1,24 @@
 # Mencari Entri Web Lain Melalui SIMKL Search
 
-> Sebelum melanjutkan, pastikan Anda telah memasang ekstensi SIMKL Search di peramban anda. Ekstensi tersedia di [Chrome Web Store](https://chrome.google.com/webstore/detail/simkl-search-select-and-s/mdofghopgfobjkgepojjmcfljnocaaff).
+## Sebelum Melanjutkan:
 
-Untuk pengaturan awal, lakukan hal berikut ini:
+  Pastikan Anda telah memasang ekstensi SIMKL Search di peramban Chrome atau berbasis Chromium \(Opera, Brave, UC Browser, Microsoft Edge Insider, dst\). Apabila belum, Anda dapat mengunduh di [sini](https://chrome.google.com/webstore/detail/simkl-search-select-and-s/mdofghopgfobjkgepojjmcfljnocaaff?hl=en).
 
-1. Klik kanan pada logo SIMKL Search di ekstensi. Pilih Opsi \(Options\).
-2. Lalu, buka menu `Import/Export Config` yang terletak di sebelah kiri.
-3. Salin dan tempelkan kode berikut ke dalam kotak yang tertera di menu import tersebut.
+  _NB: Untuk sementara, gunakan Google Chrome ataupun peramban lainnya yang berbasis Chromium._
 
-```javascript
-{
-   "newTab":true,
-   "newTabSelected":true,
-   "newTabPosition":"Last",
-   "trackGA":true,
-   "searchEverywhere":true,
-   "searchEverywhereGroups":false,
-   "searchEngines":[
-      {
-         "name":"AniList",
-         "url":"https://anilist.co/search/anime?sort=SEARCH_MATCH&search=%s",
-         "incognito":false,
-         "group":"",
-         "$$hashKey":"object:154"
-      },
-      {
-         "name":"Anime-Planet",
-         "url":"https://www.anime-planet.com/anime/all?name=%s",
-         "incognito":false,
-         "group":""
-      },
-      {
-         "name":"aniSearch",
-         "url":"https://www.anisearch.com/anime/index?text=%s&char=all&q=true",
-         "incognito":false,
-         "group":"",
-         "plus":true
-      },
-      {
-         "name":"Annict",
-         "url":"https://annict.com/search?q=%s",
-         "incognito":false
-      },
-      {
-         "name":"Kitsu",
-         "url":"https://kitsu.io/anime?text=%s",
-         "incognito":false
-      },
-      {
-         "name":"LiveChart",
-         "url":"https://www.livechart.me/search?q=%s",
-         "incognito":false
-      },
-      {
-         "name":"Metacritic",
-         "url":"https://www.metacritic.com/search/tv/%s/results",
-         "incognito":false
-      },
-      {
-         "name":"Notify",
-         "url":"https://notify.moe/search/%s",
-         "incognito":false
-      },
-      {
-         "name":"Onnada",
-         "url":"http://onnada.com/search/?q=%s&x=0&y=0",
-         "incognito":false
-      },
-      {
-         "name":"Rotten Tomatoes",
-         "url":"https://www.rottentomatoes.com/search/?search=%s",
-         "incognito":false
-      },
-      {
-         "name":"Shikimori",
-         "url":"https://shikimori.org/animes?search=%s",
-         "incognito":false
-      },
-      {
-         "name":"Trakt",
-         "url":"https://trakt.tv/search?query=%s",
-         "incognito":false
-      },
-      {
-         "name":"Nautiljon",
-         "url":"https://www.nautiljon.com/animes/?q=%s&annee_min_jj=&annee_min_mm=&annee_min_aaaa=&annee_max_jj=&annee_max_mm=&annee_max_aaaa=&annee_vf_min_jj=&annee_vf_min_mm=&annee_vf_min_aaaa=&annee_vf_max_jj=&annee_vf_max_mm=&annee_vf_max_aaaa=&licencie=&nb_ep_min=&nb_ep_max=&public_averti=&editeur=&societe=&pays=&titre_alternatif=1&titre_alternatif_suite=1&titre_original_latin=1&titre_original=1&has=&tri=0",
-         "incognito":false,
-         "plus":true
-      },
-      {
-         "name":"SIMKL",
-         "url":"https://simkl.com/search/?type=anime&q=%s",
-         "incognito":false
-      }
-   ]
-}
-```
+## Mengimpor Berkas Ekspor ke dalam Ekstensi
 
-4. Tekan Import.  
-5. Apabila muncul pesan, tekan YES.
+1. Buka opsi ekstensi. Anda dapat mengaksesnya di
+   1. Klik kanan pada logo SIMKL Search di Menu \(sebelah _Address Bar_\)
+   2. Buka `chrome://extensions` \(atau dapat diakses di `Menu` &gt; `More Tools` &gt; `Extensions`\), pilih `Detail` di ekstensi SIMKL Search, dan lalu tekan `Extension Options`.
+2. Kemudian, buka menu `Import/Export Config` di menu sebelah kiri peramban.
+3. Isilah dalam kotak teks dengan isi yang terdapat dalam berkas [Exported.json](https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/Assets/SIMKL%20Search/Exported.json)
+4. Setelah mengisi, tekan `Import`. Akan muncul pesan konfirmasi, lalu tekan `YES` yang terletak di sebelah kanan.
+5. Apabila Anda dialihkan ke halaman utama dari opsi ekstensi dan muncul pesan sebagai berikut, maka proses impor telah berhasil
+
+   ```text
+   Import successfull. Before reloading this page, check your Search Engines list to make sure everything goes well. If it's empty, then hit the *undo last import* button.
+   ```
+
+6. Untuk menggunakan ekstensi, cukup dengan memilih kata yang akan dicari, kemudian klik kanan.
 

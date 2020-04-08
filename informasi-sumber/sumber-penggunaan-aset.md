@@ -18,7 +18,7 @@ _N.B: Beberapa tipografi digunakan dalam website anime yang tidak memiliki logo 
 * [**anime-offline-database**](https://github.com/manami-project/anime-offline-database) oleh [manami-project](https://github.com/manami-project) dibawah lisensi [AGPL-3.0](https://github.com/manami-project/anime-offline-database/blob/master/LICENSE).
 * [**Indonesian Fansubs Database Mk. II**](https://docs.google.com/spreadsheets/d/1j30Cvc5Y7y0wij2qjmUpD9DmaPH6a4vjLDK54Nj9S-w/edit?fbclid=IwAR0iZYej2s6FRheY1g4DxIpfH_RqzUqRzbmYHxvcVHRKk64ZEoLlje8Jr6A#gid=281368768) oleh [Fsy](https://facebook.com/fahmiyamura), [d'7](https://facebook.com/yuwdhie7), dan ExRazor.
 
-## Aplikasi/Jasa yang Digunakan Untuk Proyek/Situs Ini
+## Aplikasi/Layanan yang Digunakan Untuk Proyek/Situs Ini
 
 * [Microsoft](https://microsoft.com)® [Office 365](https://products.office.com/en/explore-office-for-home)® PowerPoint : Desain Vector.
 * [Microsoft](https://microsoft.com)® [Office 365](https://products.office.com/en/explore-office-for-home)® Publisher : Desain Logo, Vector, Icon, Sampul untuk [SNS](https://en.wikipedia.org/wiki/Social_networking_service) \(Facebook, GitHub, dst\).

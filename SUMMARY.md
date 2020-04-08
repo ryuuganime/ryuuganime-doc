@@ -4,14 +4,15 @@
 * [Tentang](tentang.md)
 * [Kontributor](kontributor.md)
 
-## Peraturan dan Ketentuan
+## Peraturan, Ketentuan, dan Informasi Penting Lainnya <a id="pkipl"></a>
 
-* [Indeks Situs Fansub, Fanshare, dan Fanstream](peraturan-dan-ketentuan/indeks-situs-fansub-fanshare-dan-fanstream.md)
+* [Indeks Informasi Tayangan Animasi](pkipl/indeks-informasi-tayangan-animasi.md)
+* [Indeks Situs Fansub, Fanshare, dan Fanstream](pkipl/indeks-situs-fansub-fanshare-dan-fanstream.md)
 
 ## Informasi Sumber
 
 * [Situs Tracking Yang Digunakan](informasi-sumber/situs-tracking-yang-digunakan.md)
-* [Sumber Situs untuk Database Anime](informasi-sumber/sumber-situs-untuk-database-anime.md)
+* [Daftar Sumber Situs untuk Database Anime](informasi-sumber/sumber-situs-untuk-database-anime.md)
 * [Template](informasi-sumber/template.md)
 * [Sumber Penggunaan Aset](informasi-sumber/sumber-penggunaan-aset.md)
 
