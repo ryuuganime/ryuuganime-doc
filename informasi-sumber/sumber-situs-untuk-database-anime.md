@@ -2,7 +2,7 @@
 
 ## DISCLAIMER
 
-  _Ngomong-ngomong_, ini database listnya udah out-to-date _yha_. Akan ada pembaruan selanjutnya mungkin _agak_ sedikit telat
+  _Ngomong-ngomong_, ini database listnya udah out-to-date _yha_. Akan ada pembaruan selanjutnya mungkin _agak_ sedikit telat.
 
 ### Petunjuk <a id="petunjuk"></a>
 
