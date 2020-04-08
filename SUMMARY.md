@@ -4,10 +4,6 @@
 * [Tentang](tentang.md)
 * [Kontributor](kontributor.md)
 
-## FAQ
-
-* [Untitled](faq/untitled.md)
-
 ## Peraturan dan Ketentuan
 
 * [Indeks Situs Fansub, Fanshare, dan Fanstream](peraturan-dan-ketentuan/indeks-situs-fansub-fanshare-dan-fanstream.md)
