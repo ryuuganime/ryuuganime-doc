@@ -12,9 +12,13 @@ description: >-
 
 **Film animasi**, atau biasa disingkat **animasi** saja, adalah film yang merupakan hasil dari pengolahan gambar tangan sehingga menjadi gambar yang bergerak. Pada awal penemuannya, film animasi dibuat dari berlembar-lembar kertas gambar yang kemudian di-"putar" sehingga muncul efek gambar bergerak. Dengan bantuan komputer dan grafika komputer, pembuatan film animasi menjadi sangat mudah dan cepat. Bahkan akhir-akhir ini lebih banyak bermunculan film animasi 3 dimensi daripada film animasi 2 dimensi.
 
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Animasi)
+
 ### Anime
 
  **Anime** \(bahasa Jepang: アニメ, \[anime\]\) adalah [animasi ](definisi-kata.md#animasi)dari Jepang yang digambar dengan tangan maupun menggunakan teknologi komputer. Kata anime merupakan singkatan dari "_animation_" dalam bahasa Inggris, yang merujuk pada semua jenis animasi. Di luar Jepang, istilah ini digunakan secara spesifik untuk menyebutkan segala animasi yang diproduksi di Jepang. Meskipun demikian, tidak menutup kemungkinan bahwa anime dapat diproduksi di luar Jepang. Beberapa ahli berpendapat bahwa anime merupakan bentuk baru dari orientalisme.
+
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Anime)
 
 ## F
 
