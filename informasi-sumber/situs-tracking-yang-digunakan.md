@@ -1,5 +1,7 @@
 # Situs Tracking Yang Digunakan
 
+## Daftar Situs
+
 | No | Favicon | Nama | Situs | Kategori | Bahasa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | ![AniDB](https://www.google.com/s2/favicons?domain=anidb.net) | AniDB | [https://anidb.net](https://anidb.net) | Anime | Inggris |
@@ -9,7 +11,7 @@
 | 5 | ![AniSearch](https://www.google.com/s2/favicons?domain=www.anisearch.com) | AniSearch | [https://www.anisearch.com](https://www.anisearch.com), [https://www.anisearch.de](https://www.anisearch.de) | Anime, Manga, Light Novel, Live Action | Jerman, Inggris |
 | 6 | ![Annict](https://www.google.com/s2/favicons?domain=annict.jp) | Annict | [https://annict.jp](https://annict.jp), [https://annict.com](https://annict.com) | Anime | Jepang, Inggris |
 | 7 | ![IMDb](https://www.google.com/s2/favicons?domain=imdb.com) | IMDb | [https://imdb.com](https://imdb.com) | Film, TV | Inggris |
-| 8 | ![Kino](https://www.google.com/s2/favicons?domain=kinopoisk.ru) | KinoPoisk (КиноПоиск) | [https://www.kinopoisk.ru](https://www.kinopoisk.ru) | Film, TV | Rusia |
+| 8 | ![Kino](https://www.google.com/s2/favicons?domain=kinopoisk.ru) | KinoPoisk \(КиноПоиск\) | [https://www.kinopoisk.ru](https://www.kinopoisk.ru) | Film, TV | Rusia |
 | 9 | ![Kitsu](https://www.google.com/s2/favicons?domain=kitsu.io) | Kitsu | [https://kitsu.io](https://kitsu.io) | Anime, Manga, Light Novel | Inggris |
 | 10 | ![LiveChart](https://www.google.com/s2/favicons?domain=livechart.me) | LiveChart | [https://livechart.me](https://livechart.me) | Anime | Inggris |
 | 11 | ![Metacritic](https://www.google.com/s2/favicons?domain=www.metacritic.com) | Metacritic | [https://www.metacritic.com](https://www.metacritic.com) | Film, TV, Musik, Game | Inggris |
@@ -31,11 +33,11 @@
 
 | Nama | Judul Asli | Judul Terjemahan | Sinopsis | Sinonima | _Backdrop_ | Genre | Tag | Informasi Delay | Rating | Informasi Lainnya |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| AniDB | ❌ | ✔ | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ |
-| AniList | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ | ✔ | ❌ | ✔ | ✔ |
+| AniDB | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ |
+| AniList | ✔ | ❌ | ❌ | ✔ | ❌ | ✔ | ✔ | ❌ | ✔ | ✔ |
 | Anime-Planet | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ✔ | ❌ | ✔ | ❌ |
 | Anime News Network | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ |
-| AniSearch | ✔ | ✔ | ❌ | ✔ | ❌ | ✔ | ✔ | ❌ | ✔ | ✔ |
+| AniSearch | ❌ | ✔ | ❌ | ✔ | ❌ | ✔ | ✔ | ❌ | ✔ | ✔ |
 | Annict | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
 | IMDb | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ |
 | KinoPoisk | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
@@ -46,12 +48,88 @@
 | MyShows | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ | ✔ |
 | Nautiljon | ❌ | ✔ | ❌ | ✔ | ❌ | ✔ | ❌ | ❌ | ✔ | ❌ |
 | Notify | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ | ✔ | ❌ |
-| Onnada | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Onnada | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌1 | ❌ |
 | Otak Otaku | ✔ | ✔ | ✔ | ✔ | ❌ | ✔ | ❌ | ✔ | ✔ | ✔ |
 | Rotten Tomatoes | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
 | Shikimori | ❌ | ✔ | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ✔ | ❌ |
 | SIMKL | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | The Movie DB | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | ✔ | ✔ |
 | Trakt | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ | ✔ | ✔ | ❌ |
-| The TVDB | ✔ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ✔ | ❌ | ✔ |
+| The TVDB | ✔ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ✔ | ❌2 | ✔ |
 | TVTime | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ |
+
+### Catatan Kaki
+
+1. Onnada merupakan situs _metadata_ tayangan animasi Jepang di Korea, tidak memiliki skor umum oleh komunitas.
+2. The TVDB merupakan situs _metadata_ tayangan, tidak memiliki skor umum dari komunitas.
+
+## Urutan Pengambilan Data
+
+> Daftar diurutkan dari prioritas \(ditebalkan\) hingga opsi alternatif apabila tidak ditemukan.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Informasi yang Diambil</th>
+      <th style="text-align:left">Situs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>Judul Tayangan</p>
+        <p>(Romaji)</p>
+      </td>
+      <td style="text-align:left"><b>MyAnimeList</b>, <b>Kitsu</b>, AniList, AniDB, IMDb, The TVDB</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><em>Backdrop</em>
+      </td>
+      <td style="text-align:left"><b>TMDB</b>, <b>The TVDB</b>, Kitsu, Google</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sinopsis</td>
+      <td style="text-align:left">
+        <p>Indonesia: <b>Otak Otaku</b>, <em><b>Fansubs</b></em><b> yang sedang menggarap</b>
+        </p>
+        <p>Terjemahan: MyAnimeList, Kitsu, Wikipedia, Shikimori, MyShows</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sinonima</td>
+      <td style="text-align:left"><em>Tidak dibatasi</em>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Judul Tayangan</p>
+        <p>(<em>Native</em>)</p>
+      </td>
+      <td style="text-align:left"><b>MyAnimeList</b>, Kitsu, AniList, AniDB</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Judul Tayangan</p>
+        <p>(Terjemahan, tidak berurut)</p>
+      </td>
+      <td style="text-align:left">AniDB, AniList, Kitsu, MyAnimeList, The TVDB, Shikimori, MyShows, Otak
+        Otaku, IMDb, Nautiljon (jika ada)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Informasi tambahan (Tipe, Episode, Durasi, Rating, Studio, Sumber, Negara)</td>
+      <td
+      style="text-align:left"><b>MyAnimeList</b>, <b>AniList</b>, <b>AniDB</b>, Kitsu, IMDb, The TVDB,
+        Trakt</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><em>Genre</em>
+      </td>
+      <td style="text-align:left"><b>IMDb</b>, <b>The TVDB</b>, Trakt, AniList</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><em>Tags</em>
+      </td>
+      <td style="text-align:left"><b>Kitsu</b>, <b>AniList</b>, AniDB, Anime-Planet, AniSearch</td>
+    </tr>
+  </tbody>
+</table>
