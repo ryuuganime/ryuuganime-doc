@@ -42,9 +42,17 @@ Karena tindakan pendistribusian "materi yang di-[subtitle ](definisi-kata.md#sub
 
 ### Subtitle
 
-_**Subtitle**_ \(bahasa Indonesia: takarir\) adalah suatu berkas digital terjemahan yang berupa tulisan atau teks dari suatu film yang akan ditampilkan pada sebuah film berbahasa asing dengan tujuan penonton dapat mengerti apa yang sedang dibicarakan oleh tokoh-tokoh dalam film tersebut.
+_**Subtitle**_ \(bahasa Indonesia: takarir\) adalah suatu berkas digital terjemahan yang berupa tulisan atau teks dalam suatu tayangan yang ditampilkan pada sebuah tayangan berbahasa asing dengan tujuan penonton dapat mengerti apa yang sedang dibicarakan oleh tokoh-tokoh dalam tayangan tersebut.
 
 > Sumber: [Brainly](https://brainly.co.id/tugas/10215877#readmore), [KBBI Kemdikbud](https://kbbi.kemdikbud.go.id/entri/takarir)
 
-Biasanya, _**subtitle**_ yang disebarkan oleh kelompok [fansub ](definisi-kata.md#fansub)berformat `.ASS` atau `.SRT`.
+Biasanya, _**subtitle**_ yang disebarkan oleh kelompok [fansub ](definisi-kata.md#fansub)berformat [`.ASS`](definisi-format-berkas.md#ass) atau [`.SRT`](definisi-format-berkas.md#srt).
+
+## V
+
+### Vektor \(Gambar\)
+
+**Gambar vektor** adalah gambar yang menggunakan poligon dalam menciptakan gambar pada grafis komputer. Pada dasarnya, gambar vektor menggunakan vektor. Lokasi-lokasi pada vektor dinamakan _control points_ atau _nodes_. Setiap poin ini memiliki posisi yang pasti berdasarkan sumbu x dan y dari bidang kerja dan menentukan alurnya. Setiap alur pada vektor bisa ditambahkan atribut, termasuk ketebalan garis, bentuk, kurva, warna garis, dan warna isi.
+
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Gambar_vektor)
 

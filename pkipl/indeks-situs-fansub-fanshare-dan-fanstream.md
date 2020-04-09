@@ -2,7 +2,7 @@
 
 ## Ketentuan untuk Fansub, Fanshare, dan Fanstream
 
-1. Pihak _Fansub_, _Fanshare_, dan _Fanstream_ berhak menentukan tautan yang akan diindeks merupakan tautan situs, _Link Shortener_ berbayar, maupun unduhan langsung dengan menghubungi pihak pengelola Ryuuganime.
+1. Pihak [_Fansub_](definisi-kata.md#fansub), [_Fanshare_](definisi-kata.md#fanshare), dan [_Fanstream_](definisi-kata.md#fanstream) berhak menentukan tautan yang akan diindeks merupakan tautan situs, _Link Shortener_ berbayar, maupun unduhan langsung dengan menghubungi pihak pengelola Ryuuganime.
 2. Ryuuganime tidak akan mengindekskan tautan apabila terdapat _malware_, _phising_, _pop-up_, dan lain-lain pada tautan terkait ke dalam indeks animasi untuk kenyamanan bersama.
 
 ## Ketentuan untuk Fanstreamer dan Fansharer

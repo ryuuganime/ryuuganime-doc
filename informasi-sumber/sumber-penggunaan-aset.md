@@ -20,14 +20,14 @@
 
 ## Aplikasi/Layanan yang Digunakan Untuk Proyek/Situs Ini
 
-* [**Microsoft**](https://microsoft.com)**®** [**Office 365**](https://products.office.com/en/explore-office-for-home)**® PowerPoint** : Desain Vector.
-* [**Microsoft**](https://microsoft.com)**®** [**Office 365**](https://products.office.com/en/explore-office-for-home)**® Publisher** : Desain Logo, Vector, Icon, Sampul untuk [SNS](https://en.wikipedia.org/wiki/Social_networking_service) \(Facebook, GitHub, dst\).
+* [**Microsoft**](https://microsoft.com)**®** [**Office 365**](https://products.office.com/en/explore-office-for-home)**® PowerPoint** : Desain [Vektor](../pkipl/definisi-kata.md#vektor-gambar).
+* [**Microsoft**](https://microsoft.com)**®** [**Office 365**](https://products.office.com/en/explore-office-for-home)**® Publisher** : Desain Logo, [Vektor](../pkipl/definisi-kata.md#vektor-gambar), Icon, Sampul untuk [SNS](https://en.wikipedia.org/wiki/Social_networking_service) \(Facebook, GitHub, dst\).
 * [**Microsoft**](https://microsoft.com)**®** [**Office 365**](https://products.office.com/en/explore-office-for-home)**® OneDrive** : Pencadangan _database_ situs.
-* [**Microsoft**](https://microsoft.com)**®** [**Visual Studio Code**](https://code.visualstudio.com) ****: Penyuntingan _code_ dan _markdown_.
+* [**Microsoft**](https://microsoft.com)**®** [**Visual Studio Code**](https://code.visualstudio.com) ****: Penyuntingan _code_ dan [`markdown`](../pkipl/definisi-format-berkas.md#md-markdown).
 * \*\*\*\*[**GitHub**](https://github.com) : Repositori desain dan _database_ situs.
-* [**EZGif**](https://ezgif.com) ****: _Converter_ ekstensi WebP ke JPEG/PNG.
-* [**Paint.NET**](https://www.getpaint.net/) **4.1.6** : Penyuntingan Gambar/Vector.
-* [**Inkscape**](https://inkscape.org/) **0.92.3** : Penyuntingan Vektor SVG.
+* [**EZGif**](https://ezgif.com) ****: _Converter_ ekstensi [`WebP`](../pkipl/definisi-format-berkas.md#webp) ke [`JPEG`](../pkipl/definisi-format-berkas.md#jpeg-jpg)/[`PNG`](../pkipl/definisi-format-berkas.md#png).
+* [**Paint.NET**](https://www.getpaint.net/) **4.1.6** : Penyuntingan Gambar/Vektor.
+* [**Inkscape**](https://inkscape.org/) **0.92.3** : Penyuntingan Vektor [`SVG`](../pkipl/definisi-format-berkas.md#svg).
 * [**GitBook**](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=nattadasu) : Penyedia layanan Wiki dalam teknologi Git.
 * \*\*\*\*[**IDCloudHost**](https://idcloudhost.com/) : Penyedia Domain.
 

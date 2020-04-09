@@ -8,6 +8,7 @@
 
 * [Kebijakan Privasi \(Privacy Policy\)](pkipl/untitled.md)
 * [Definisi Kata](pkipl/definisi-kata.md)
+* [Definisi Format Berkas](pkipl/definisi-format-berkas.md)
 * [Indeks Informasi Tayangan Animasi](pkipl/indeks-informasi-tayangan-animasi.md)
 * [Indeks Situs Fansub, Fanshare, dan Fanstream](pkipl/indeks-situs-fansub-fanshare-dan-fanstream.md)
 
