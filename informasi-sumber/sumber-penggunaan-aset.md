@@ -1,15 +1,15 @@
-# Sumber Penggunaan Aset
+# Daftar Penggunaan Aset
 
 ## Tipografi:
 
-* [**Poppins**](https://fonts.google.com/specimen/Poppins) oleh [Indian Type Foundry](http://www.indiantypefoundry.com/) dibawah lisensi [OFL](https://scripts.sil.org/OFL_web).
-* [**Maven Pro**](https://fontmeme.com/fonts/maven-pro-font/) oleh [Joe Prince](https://dribbble.com/joeprince) dibawah lisensi: Publik, [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html), dan [OPL](http://opencontent.org/openpub/).
-* [**Exo 2**](http://www.ndiscovered.com/) oleh [Natanael Gama](http://www.ndiscovered.com/) dibawah lisensi [OFL](https://scripts.sil.org/OFL_web).
-* [**Single Fighter**](https://fontbundles.net/subectype/274413-single-fighter) oleh [Subectype & Orenari](https://fontbundles.net/subectype) dibawah lisensi Personal.
+* [**Poppins**](https://fonts.google.com/specimen/Poppins) oleh [Indian Type Foundry](http://www.indiantypefoundry.com/) di bawah lisensi [OFL](https://scripts.sil.org/OFL_web).
+* [**Maven Pro**](https://fontmeme.com/fonts/maven-pro-font/) oleh [Joe Prince](https://dribbble.com/joeprince) di bawah lisensi: Publik, [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html), dan [OPL](http://opencontent.org/openpub/).
+* [**Exo 2**](http://www.ndiscovered.com/) oleh [Natanael Gama](http://www.ndiscovered.com/) di bawah lisensi [OFL](https://scripts.sil.org/OFL_web).
+* [**Single Fighter**](https://fontbundles.net/subectype/274413-single-fighter) oleh [Subectype & Orenari](https://fontbundles.net/subectype) di bawah lisensi Personal.
 * [**Arabica Export**](https://www.dafont.com/arabica-export.font) oleh [imagex](http://www.imagex-fonts.com/). Legal Notice: [disini](http://www.imagex-fonts.com/legal-notice.php)
-* [**Heebo**](https://www.fontsquirrel.com/fonts/heebo) oleh [Oded Ezer](https://www.hebrewtypography.com/) dibawah lisensi [OFL](https://scripts.sil.org/OFL_web).
-* [**Merriweather**](https://www.fontsquirrel.com/fonts/merriweather) oleh [Sorkin Type Co](http://www.sorkintype.com/) dibawah lisensi [OFL](https://scripts.sil.org/OFL_web).
-* [**Domine**](https://www.fontsquirrel.com/fonts/domine) oleh [Impallari Type](http://www.impallari.com/) dibawah lisensi [OFL](https://scripts.sil.org/OFL_web).
+* [**Heebo**](https://www.fontsquirrel.com/fonts/heebo) oleh [Oded Ezer](https://www.hebrewtypography.com/) di bawah lisensi [OFL](https://scripts.sil.org/OFL_web).
+* [**Merriweather**](https://www.fontsquirrel.com/fonts/merriweather) oleh [Sorkin Type Co](http://www.sorkintype.com/) di bawah lisensi [OFL](https://scripts.sil.org/OFL_web).
+* [**Domine**](https://www.fontsquirrel.com/fonts/domine) oleh [Impallari Type](http://www.impallari.com/) di bawah lisensi [OFL](https://scripts.sil.org/OFL_web).
 
 > N.B: Beberapa tipografi digunakan dalam website anime yang tidak memiliki logo resmi di situsnya. Tipografi yang tertera juga tidak akan digunakan untuk kepentingan komersial apabila dalam lisensi yang digunakan tidak diperkenankan untuk menggunakan sebagai bahan komersial pada tipografi tersebut.
 
@@ -26,9 +26,9 @@
 * [**Microsoft**](https://microsoft.com)**®** [**Visual Studio Code**](https://code.visualstudio.com) ****: Penyuntingan _code_ dan [`markdown`](../pkipl/definisi-format-berkas.md#md-markdown).
 * \*\*\*\*[**GitHub**](https://github.com) : Repositori desain dan _database_ situs.
 * [**EZGif**](https://ezgif.com) ****: _Converter_ ekstensi [`WebP`](../pkipl/definisi-format-berkas.md#webp) ke [`JPEG`](../pkipl/definisi-format-berkas.md#jpeg-jpg)/[`PNG`](../pkipl/definisi-format-berkas.md#png).
-* [**Paint.NET**](https://www.getpaint.net/) **4.1.6** : Penyuntingan Gambar/Vektor.
-* [**Inkscape**](https://inkscape.org/) **0.92.3** : Penyuntingan Vektor [`SVG`](../pkipl/definisi-format-berkas.md#svg).
-* [**GitBook**](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=nattadasu) : Penyedia layanan Wiki dalam teknologi Git.
+* [**Paint.NET**](https://www.getpaint.net/) **4.1.6** : Penyuntingan Gambar/[Vektor](../pkipl/definisi-kata.md#vektor-gambar).
+* [**Inkscape**](https://inkscape.org/) **0.92.3** : Penyuntingan [Vektor](../pkipl/definisi-kata.md#wiki) [`SVG`](../pkipl/definisi-format-berkas.md#svg).
+* [**GitBook**](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=nattadasu) : Penyedia layanan [Wiki](../pkipl/definisi-kata.md#wiki) dalam teknologi Git.
 * \*\*\*\*[**IDCloudHost**](https://idcloudhost.com/) : Penyedia Domain.
 
 > _N.B: Daftar ini masih dalam tahap pengembangan seiring perkembangan situs._

@@ -1,4 +1,4 @@
-# Situs Tracking Yang Digunakan
+# Situs Database Daring Yang Digunakan
 
 ## Daftar Situs
 
@@ -90,8 +90,10 @@
     <tr>
       <td style="text-align:left">Sinopsis</td>
       <td style="text-align:left">
-        <p>Indonesia: <b>Otak Otaku</b>, <em><b>Fansubs</b></em><b> yang sedang menggarap</b>
-        </p>
+        <p>Indonesia: <b>Otak Otaku</b>, <a href="../pkipl/definisi-kata.md#fansub"><em><b>Fansubs</b></em></a><b> yang sedang menggarap</b>,
+          <a
+          href="../pkipl/definisi-kata.md#fanstream"><b>Fanshare</b>
+            </a>&lt;b&gt;&lt;/b&gt;</p>
         <p>Terjemahan: MyAnimeList, Kitsu, Wikipedia, Shikimori, MyShows</p>
       </td>
     </tr>
@@ -116,10 +118,15 @@
         Otaku, IMDb, Nautiljon (jika ada)</td>
     </tr>
     <tr>
-      <td style="text-align:left">Informasi tambahan (Tipe, Episode, Durasi, Rating, Studio, Sumber, Negara)</td>
+      <td style="text-align:left">Informasi tambahan (Tipe, Episode, Durasi, Studio, Sumber, Negara)</td>
       <td
       style="text-align:left"><b>MyAnimeList</b>, <b>AniList</b>, <b>AniDB</b>, Kitsu, IMDb, The TVDB,
         Trakt</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&lt;em&gt;&lt;/em&gt;<a href="../pkipl/rating-konten-penyiaran.md"><em>Rating </em>Konten</a>
+      </td>
+      <td style="text-align:left"><b>TMDB</b>, <b>The TVDB</b>, MyAnimeList, Shikimori, Kitsu</td>
     </tr>
     <tr>
       <td style="text-align:left"><em>Genre</em>
@@ -129,7 +136,8 @@
     <tr>
       <td style="text-align:left"><em>Tags</em>
       </td>
-      <td style="text-align:left"><b>Kitsu</b>, <b>AniList</b>, AniDB, Anime-Planet, AniSearch</td>
+      <td style="text-align:left"><b>Kitsu</b>, <b>AniList</b>, <b>Anime-Planet</b>, <b>AniSearch</b>, SIMKL,
+        AniDB, Nautiljon</td>
     </tr>
   </tbody>
 </table>

@@ -10,14 +10,15 @@
 * [Definisi Kata](pkipl/definisi-kata.md)
 * [Definisi Format Berkas](pkipl/definisi-format-berkas.md)
 * [Indeks Informasi Tayangan Animasi](pkipl/indeks-informasi-tayangan-animasi.md)
+* [Rating Konten Penyiaran](pkipl/rating-konten-penyiaran.md)
 * [Indeks Situs Fansub, Fanshare, dan Fanstream](pkipl/indeks-situs-fansub-fanshare-dan-fanstream.md)
 
 ## Informasi Sumber
 
-* [Situs Tracking Yang Digunakan](informasi-sumber/situs-tracking-yang-digunakan.md)
+* [Situs Database Daring Yang Digunakan](informasi-sumber/situs-tracking-yang-digunakan.md)
 * [Daftar Sumber Situs untuk Database Anime](informasi-sumber/sumber-situs-untuk-database-anime.md)
 * [Template](informasi-sumber/template.md)
-* [Sumber Penggunaan Aset](informasi-sumber/sumber-penggunaan-aset.md)
+* [Daftar Penggunaan Aset](informasi-sumber/sumber-penggunaan-aset.md)
 
 ## Kontribusi Data
 
