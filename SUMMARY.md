@@ -7,8 +7,8 @@
 ## Peraturan, Ketentuan, dan Informasi Penting Lainnya <a id="pkipl"></a>
 
 * [Kebijakan Privasi \(Privacy Policy\)](pkipl/untitled.md)
-* [Definisi Kata](pkipl/definisi-kata.md)
-* [Definisi Format Berkas](pkipl/definisi-format-berkas.md)
+* [Glosarium](pkipl/definisi-kata/README.md)
+  * [Format Berkas](pkipl/definisi-kata/definisi-format-berkas.md)
 * [Indeks Informasi Tayangan Animasi](pkipl/indeks-informasi-tayangan-animasi.md)
 * [Rating Konten Penyiaran](pkipl/rating-konten-penyiaran.md)
 * [Indeks Situs Fansub, Fanshare, dan Fanstream](pkipl/indeks-situs-fansub-fanshare-dan-fanstream.md)

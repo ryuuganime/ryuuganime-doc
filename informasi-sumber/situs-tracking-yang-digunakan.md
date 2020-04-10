@@ -90,9 +90,9 @@
     <tr>
       <td style="text-align:left">Sinopsis</td>
       <td style="text-align:left">
-        <p>Indonesia: <b>Otak Otaku</b>, <a href="../pkipl/definisi-kata.md#fansub"><em><b>Fansubs</b></em></a><b> yang sedang menggarap</b>,
+        <p>Indonesia: <b>Otak Otaku</b>, <a href="../pkipl/definisi-kata/#fansub"><em><b>Fansubs</b></em></a><b> yang sedang menggarap</b>,
           <a
-          href="../pkipl/definisi-kata.md#fanstream"><b>Fanshare</b>
+          href="../pkipl/definisi-kata/#fanstream"><b>Fanshare</b>
             </a>&lt;b&gt;&lt;/b&gt;</p>
         <p>Terjemahan: MyAnimeList, Kitsu, Wikipedia, Shikimori, MyShows</p>
       </td>

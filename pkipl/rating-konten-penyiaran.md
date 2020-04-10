@@ -6,18 +6,19 @@ Berikut adalah perbandingan rating konten di tiap negara
 
 | Umur | [Indonesia](https://id.wikipedia.org/wiki/Sistem_rating_konten_televisi) | [Amerika Serikat](https://en.wikipedia.org/wiki/Television_content_rating_system) | [Jepang](https://id.wikipedia.org/wiki/Eirin) | [Korea](https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EB%93%B1%EA%B8%89_%EC%A0%9C%EB%8F%84) | [China \(Taiwan\)](https://en.wikipedia.org/wiki/Television_content_rating_system#Taiwan) | [Default MAL](https://myanimelist.net/forum/?topicid=16816) |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | [SU2+](rating-konten-penyiaran.md#su-2) | TV-G | G | ALL | 0+ | G |
-| 2 | [P2+](rating-konten-penyiaran.md#p-2) | TV-Y | - | - | - | - |
-| 6 | - | - | - | - | 6+ | - |
-| 7 | [A7+](rating-konten-penyiaran.md#a-7) | TV-Y7 | - | 7 | - | PG |
-| 10 | - | TV-PG | - | - | - | - |
-| 12 | - | - | PG-12 | 12 | 12+ | - |
-| 13 | [R13+](rating-konten-penyiaran.md#r-13) | - | - | - | - | PG-13 |
-| 14 | - | TV-14 | - | - | - | - |
-| 15 | - | - | R-15 | 15 | 15+ | R |
-| 17 | - | - | - | - | - | R+ |
-| 18 | D18+ | TV-MA | R-18 | - | 18+ | Rx |
-| 19 | - | - | - | 19 | - | - |
+| 0 | [SU2+](rating-konten-penyiaran.md#su-2) / SU | [TV-G](rating-konten-penyiaran.md#tv-g) / G | [G](rating-konten-penyiaran.md#g-general) | [ALL](rating-konten-penyiaran.md#all) | [0+](rating-konten-penyiaran.md#0) | G |
+| 2 | [P2+](rating-konten-penyiaran.md#p-2) | [TV-Y](rating-konten-penyiaran.md#tv-y) | - | - | - | - |
+| 6 | - | - | - | - | [6+](rating-konten-penyiaran.md#6) | - |
+| 7 | [A7+](rating-konten-penyiaran.md#a-7) | [TV-Y7](rating-konten-penyiaran.md#tv-y7) | - | [7](rating-konten-penyiaran.md#7) | - | PG |
+| 10 | - | [TV-PG](rating-konten-penyiaran.md#tv-pg) / PG | - | - | - | - |
+| 12 | - | - | [PG-12](rating-konten-penyiaran.md#pg-12) | [12](rating-konten-penyiaran.md#12) | [12+](rating-konten-penyiaran.md#12-1) | - |
+| 13 | [R13+](rating-konten-penyiaran.md#r-13) / 13+ | PG-13 | - | - | - | PG-13 |
+| 14 | - | [TV-14](rating-konten-penyiaran.md#tv-14) | - | - | - | - |
+| 15 | - | - | [R-15](rating-konten-penyiaran.md#r-15) | [15](rating-konten-penyiaran.md#r-15) | [15+](rating-konten-penyiaran.md#15-1) | - |
+| 17 | 17+ | R | - | - | - | R |
+| 18 | [D18+](rating-konten-penyiaran.md#d-18) | [TV-MA](rating-konten-penyiaran.md#tv-ma) / NC-17 | [R-18](rating-konten-penyiaran.md#r-18) | R | [18+](rating-konten-penyiaran.md#18) | R+ |
+| 19 | - | - | - | [19](rating-konten-penyiaran.md#19) | - | Rx |
+| 21 | 21+ | - | - | - | - | - |
 
 ## Informasi Lanjutan
 
@@ -79,6 +80,8 @@ untuk dewasa 18 tahun keatas
 
 ### Jepang
 
+CATATAN: Untuk sistem rating penyiaran televisi di Jepang ini berdasarkan rating penyiaran perfilman oleh Eiga Rinri Kanri Iinkai \(Eirin\), kutipan lanjutan mungkin diperlukan.
+
 #### G - General
 
 **Audiensi Umum**. Semua umur mengakui.
@@ -103,19 +106,79 @@ Sistem peringkat televisi Korea Selatan telah berlaku sejak tahun 2000, dan itu 
 
 #### ALL
 
+`ALL` \(모든 연령 시청가, Mo-deun yeon-ryeong si-cheong-ga\): Peringkat ini untuk pemrograman yang sesuai untuk semua umur. Tayangan dengan peringkat ini mungkin mengandung kekerasan dan/atau bahasa yang ringan. Tidak ada konten dewasa yang dibolehkan.
+
 #### 7
+
+`7` \(7 세 이상 시청가, chil-se ii-sang si-cheong-ga\): Anak-anak di bawah 7 dilarang menonton tayangan ini. Anak-anak berusia 7-8 dapat menonton tayangan ini, tetapi harus ditemani oleh orang dewasa. Tayangan dengan peringkat ini dapat berisi kekerasan ringan, bahasa ringan dan sedikit romansa.
 
 #### 12
 
+`12` \(12 세 이상 시청가, sib-i-se i-sang si-cheong-ga\): Anak-anak di bawah 12 dilarang menonton tayangan ini. Tayangan dengan peringkat ini mungkin mengandung horor, beberapa kekerasan fantasi, beberapa konten seksual, sedikit penggunaan bahasa yang kuat, pendarahan ringan, dan/atau tema sugestif ringan.
+
 #### 15
+
+15 \(15 세 이상 시청가, sib-o-se i-sang si-cheong-ga\): Anak-anak di bawah 15 dilarang menonton tayangan ini. Tayangan dengan peringkat ini mungkin mengandung penggunaan alkohol, lebih banyak konten seksual, kekerasan ringan atau sedikit kekerasan kuat, pendarahan berat atau gore, dan/atau tema sugestif.
 
 #### 19
 
-> Sumber: Wikipedia EN
+`19` \(19 세 이상 시청가, sip-gu-se i-sang si-cheong-ga\): Anak-anak di bawah 19 dilarang menonton tayangan ini. 
+
+> Sumber: [Wikipedia EN](https://en.wikipedia.org/wiki/Television_content_rating_system#South_Korea), alih bahasa dan penyuntingan oleh tim Ryuuganime
 
 ### Taiwan
 
+#### 0+
+
+普遍級 \(_General Level_\): cocok untuk ditonton oleh khalayak umum.
+
+#### 6+
+
+保護級 \(_Protected Level_\): tidak cocok untuk dilihat oleh anak-anak di bawah usia enam tahun; anak-anak di atas enam dan di bawah usia dua belas tahun dapat melihat jika ditemani oleh orang tua, guru atau kerabat yang dewasa.
+
+#### 12+
+
+輔12級 \(_Parental Guidance_-12 level\): tidak cocok untuk dilihat oleh anak-anak di bawah usia dua belas tahun, terpisah dari penilaian _Parental Guideline_ sebelumnya.
+
+#### 15+
+
+輔15級 \(_Parental Guidance_-15 level\): tidak cocok untuk dilihat oleh orang di bawah usia lima belas tahun, terpisah dari penilaian _Parental Guideline_ sebelumnya.
+
+#### 18+
+
+限制級 \(_Restricted level_\): tidak cocok untuk dilihat oleh orang di bawah usia delapan belas tahun.
+
+> Sumber: [Wikipedia EN](https://en.wikipedia.org/wiki/Television_content_rating_system#Taiwan), alih bahasa dan penyuntingan oleh tim Ryuuganime
+
 ### Default MyAnimeList
+
+Rating konten penyiaran di MyAnimeList dapat dikatakan kurang akurat yang diakibatkan dari kurangnya referensi dari pihak tim editorial MyAnimeList maupun komunitasnya. Kutipan lanjutan mungkin diperlukan. Berikut adalah estimasi definisi dari _rating_ konten pada MyAnimeList menurut tim Ryuuganime \(juga sedikit mengutip dari artikel _Anime DB Guideline_ di MyAnimeList\):
+
+#### G
+
+G \(_General_\) adalah tayangan yang dapat disaksikan oleh khalayak secara umum tanpa batasan minimum usia.
+
+#### PG
+
+PG \(_Parental Guidance_\) yaitu tayangan yang memerlukan bimbingan dari Orang Tua. Konten dapat berupa kekerasan ringan, sedikit romansa, dan beberapa materi lainnya dalam tayangan yang mungkin tidak cocok bagi anak-anak di bawah umur.
+
+#### PG-13
+
+PG-13 \(_Parental Guidance - 13 y.o minimum_\) merupakan tayangan untuk anak-anak dengan umur minimal 13 tahun yang juga memerlukan bimbingan orang tua, seperti [rating sebelumnya](rating-konten-penyiaran.md#pg). Konten dapat berupa fantasi tinggi, konten seksual, atau konten lainnya.
+
+#### R
+
+R \(_Restricted_\) ialah tayangan yang direkomendasikan untuk anak-anak berusia 17 tahun ke atas. Konten dengan _rating_ ini dapat mengandung kekerasan fisik maupun seksual ringan, bahasa kasar \(umpatan\), narkotika, alkohol, pendarahan berat, gore, hingga horror .
+
+#### R+
+
+R+ \(Restricted +\) adalah konten dengan _rating_ [R](rating-konten-penyiaran.md#r) yang memiliki konten tambahan seperti ketelanjangan ringan. Tidak cocok untuk dilihat oleh orang berusia kurang dari 18 tahun.
+
+Rx
+
+Rx yakni "versi" lanjutan dari _rating_ R+, 
+
+## Konversi Rating Penyiaran Televisi
 
 
 
