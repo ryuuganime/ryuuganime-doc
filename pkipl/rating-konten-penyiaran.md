@@ -215,7 +215,7 @@ R18+ "_Restricted — only for 18 years old or older_" ialah tayangan untuk rema
 
 #### GU21+
 
-Singkatan dari "_Grown up — for 21+ years old_" atau kadang disebut dengan **MA21+** untuk _Mature — 21+ years old_, merupakan rating terbatas yang hanya ditujukan untuk orang dewasa. Anak-anak dan remaja di bawah usia 21 tahun dilarang menonton tayangan ini. Mengandung unsur pornografi berat dan/atau psikologis yang dapat mempengaruhi penonton di bawah umur.
+Singkatan dari "_Grown up — for 21+ years old_" atau kadang disebut dengan **MA21+** untuk _Mature — 21+ years old_, merupakan rating terbatas yang hanya ditujukan untuk orang dewasa. Anak-anak dan remaja di bawah usia 21 tahun dilarang menonton tayangan ini. Mengandung unsur pornografi berat dan/atau unsur psikologis yang dapat mempengaruhi penonton di bawah umur.
 
 
 
