@@ -4,7 +4,7 @@
 
 Berikut adalah perbandingan rating konten di tiap negara
 
-| Umur | [Indonesia](https://id.wikipedia.org/wiki/Sistem_rating_konten_televisi) | [Amerika Serikat](https://en.wikipedia.org/wiki/Television_content_rating_system) | [Jepang](https://id.wikipedia.org/wiki/Eirin) | [Korea](https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EB%93%B1%EA%B8%89_%EC%A0%9C%EB%8F%84) | [China \(Taiwan\)](https://en.wikipedia.org/wiki/Television_content_rating_system#Taiwan) | [Default MAL](https://myanimelist.net/forum/?topicid=16816) | [Ryuuganime](rating-konten-penyiaran.md#legenda-rating) |
+| Umur | [Indonesia](https://id.wikipedia.org/wiki/Sistem_rating_konten_televisi) | [Amerika Serikat](https://en.wikipedia.org/wiki/Television_content_rating_system) | [Jepang](https://id.wikipedia.org/wiki/Eirin) | [Korea](https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EB%93%B1%EA%B8%89_%EC%A0%9C%EB%8F%84) | [China \(Taiwan\)](https://en.wikipedia.org/wiki/Television_content_rating_system#Taiwan) | [Default MAL](https://myanimelist.net/forum/?topicid=16816) | [Ryuuganime](rating-konten-penyiaran.md#legenda-rating-ryuuganime) |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 0 | [SU2+](rating-konten-penyiaran.md#su-2) / SU | [TV-G](rating-konten-penyiaran.md#tv-g) / G | [G](rating-konten-penyiaran.md#g-general) | [ALL](rating-konten-penyiaran.md#all) | [0+](rating-konten-penyiaran.md#0) | [G](rating-konten-penyiaran.md#g) | [G0+](rating-konten-penyiaran.md#g-0) |
 | 2 | [P2+](rating-konten-penyiaran.md#p-2) | [TV-Y](rating-konten-penyiaran.md#tv-y) | - | - | - | - | [PS2+](rating-konten-penyiaran.md#ps-2) |
@@ -191,7 +191,7 @@ Sistem rating yang digunakan oleh Ryuuganime merupakan rating buatan yang mengac
 | [R18+](rating-konten-penyiaran.md#r-18-1) | D18+/17+ | R/TV-MA/NC-17 | R-18 | R | 18+ | R/R+ |
 | [GU21+](rating-konten-penyiaran.md#ma-21) | 21+ | TV-MA/NC-17 | - | 19 | - | Rx |
 
-### Legenda Rating
+### Legenda Rating Ryuuganime
 
 #### G0+
 
