@@ -1,24 +1,24 @@
-# Rating Konten Penyiaran
+# Rating Konten Penyiaran Pertelevisian dan Perfilman
 
 ## Tabel Perbandingan
 
 Berikut adalah perbandingan rating konten di tiap negara
 
-| Umur | [Indonesia](https://id.wikipedia.org/wiki/Sistem_rating_konten_televisi) | [Amerika Serikat](https://en.wikipedia.org/wiki/Television_content_rating_system) | [Jepang](https://id.wikipedia.org/wiki/Eirin) | [Korea](https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EB%93%B1%EA%B8%89_%EC%A0%9C%EB%8F%84) | [China \(Taiwan\)](https://en.wikipedia.org/wiki/Television_content_rating_system#Taiwan) | [Default MAL](https://myanimelist.net/forum/?topicid=16816) |
-| ---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | [SU2+](rating-konten-penyiaran.md#su-2) / SU | [TV-G](rating-konten-penyiaran.md#tv-g) / G | [G](rating-konten-penyiaran.md#g-general) | [ALL](rating-konten-penyiaran.md#all) | [0+](rating-konten-penyiaran.md#0) | G |
-| 2 | [P2+](rating-konten-penyiaran.md#p-2) | [TV-Y](rating-konten-penyiaran.md#tv-y) | - | - | - | - |
-| 6 | - | - | - | - | [6+](rating-konten-penyiaran.md#6) | - |
-| 7 | [A7+](rating-konten-penyiaran.md#a-7) | [TV-Y7](rating-konten-penyiaran.md#tv-y7) | - | [7](rating-konten-penyiaran.md#7) | - | PG |
-| 10 | - | [TV-PG](rating-konten-penyiaran.md#tv-pg) / PG | - | - | - | - |
-| 12 | - | - | [PG-12](rating-konten-penyiaran.md#pg-12) | [12](rating-konten-penyiaran.md#12) | [12+](rating-konten-penyiaran.md#12-1) | - |
-| 13 | [R13+](rating-konten-penyiaran.md#r-13) / 13+ | PG-13 | - | - | - | PG-13 |
-| 14 | - | [TV-14](rating-konten-penyiaran.md#tv-14) | - | - | - | - |
-| 15 | - | - | [R-15](rating-konten-penyiaran.md#r-15) | [15](rating-konten-penyiaran.md#r-15) | [15+](rating-konten-penyiaran.md#15-1) | - |
-| 17 | 17+ | R | - | - | - | R |
-| 18 | [D18+](rating-konten-penyiaran.md#d-18) | [TV-MA](rating-konten-penyiaran.md#tv-ma) / NC-17 | [R-18](rating-konten-penyiaran.md#r-18) | R | [18+](rating-konten-penyiaran.md#18) | R+ |
-| 19 | - | - | - | [19](rating-konten-penyiaran.md#19) | - | Rx |
-| 21 | 21+ | - | - | - | - | - |
+| Umur | [Indonesia](https://id.wikipedia.org/wiki/Sistem_rating_konten_televisi) | [Amerika Serikat](https://en.wikipedia.org/wiki/Television_content_rating_system) | [Jepang](https://id.wikipedia.org/wiki/Eirin) | [Korea](https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EB%93%B1%EA%B8%89_%EC%A0%9C%EB%8F%84) | [China \(Taiwan\)](https://en.wikipedia.org/wiki/Television_content_rating_system#Taiwan) | [Default MAL](https://myanimelist.net/forum/?topicid=16816) | [Ryuuganime](rating-konten-penyiaran.md#legenda-rating) |
+| ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 0 | [SU2+](rating-konten-penyiaran.md#su-2) / SU | [TV-G](rating-konten-penyiaran.md#tv-g) / G | [G](rating-konten-penyiaran.md#g-general) | [ALL](rating-konten-penyiaran.md#all) | [0+](rating-konten-penyiaran.md#0) | [G](rating-konten-penyiaran.md#g) | [G0+](rating-konten-penyiaran.md#g-0) |
+| 2 | [P2+](rating-konten-penyiaran.md#p-2) | [TV-Y](rating-konten-penyiaran.md#tv-y) | - | - | - | - | [PS2+](rating-konten-penyiaran.md#ps-2) |
+| 6 | - | - | - | - | [6+](rating-konten-penyiaran.md#6) | - | - |
+| 7 | [A7+](rating-konten-penyiaran.md#a-7) | [TV-Y7](rating-konten-penyiaran.md#tv-y7) | - | [7](rating-konten-penyiaran.md#7) | - | [PG](rating-konten-penyiaran.md#pg) | [PG7+](rating-konten-penyiaran.md#pg-7) |
+| 10 | - | [TV-PG](rating-konten-penyiaran.md#tv-pg) / PG | - | - | - | - | - |
+| 12 | - | - | [PG-12](rating-konten-penyiaran.md#pg-12) | [12](rating-konten-penyiaran.md#12) | [12+](rating-konten-penyiaran.md#12-1) | - | - |
+| 13 | [R13+](rating-konten-penyiaran.md#r-13) / 13+ | PG-13 | - | - | - | [PG-13](rating-konten-penyiaran.md#pg-13) | [PG13+](rating-konten-penyiaran.md#pg-13-1) |
+| 14 | - | [TV-14](rating-konten-penyiaran.md#tv-14) | - | - | - | - | - |
+| 15 | - | - | [R-15](rating-konten-penyiaran.md#r-15) | [15](rating-konten-penyiaran.md#r-15) | [15+](rating-konten-penyiaran.md#15-1) | - | - |
+| 17 | 17+ | R | - | - | - | [R](rating-konten-penyiaran.md#r) | - |
+| 18 | [D18+](rating-konten-penyiaran.md#d-18) | [TV-MA](rating-konten-penyiaran.md#tv-ma) / NC-17 | [R-18](rating-konten-penyiaran.md#r-18) | R | [18+](rating-konten-penyiaran.md#18) | [R+](rating-konten-penyiaran.md#r-1) | [R18+](rating-konten-penyiaran.md#r-18-1) |
+| 19 | - | - | - | [19](rating-konten-penyiaran.md#19) | - | - | - |
+| 21 | 21+ | - | - | - | - | [Rx](rating-konten-penyiaran.md#rx) | [GU21+](rating-konten-penyiaran.md#gu-21) |
 
 ## Informasi Lanjutan
 
@@ -118,7 +118,7 @@ Sistem peringkat televisi Korea Selatan telah berlaku sejak tahun 2000, dan itu 
 
 #### 15
 
-15 \(15 세 이상 시청가, sib-o-se i-sang si-cheong-ga\): Anak-anak di bawah 15 dilarang menonton tayangan ini. Tayangan dengan peringkat ini mungkin mengandung penggunaan alkohol, lebih banyak konten seksual, kekerasan ringan atau sedikit kekerasan kuat, pendarahan berat atau gore, dan/atau tema sugestif.
+`15` \(15 세 이상 시청가, sib-o-se i-sang si-cheong-ga\): Anak-anak di bawah 15 dilarang menonton tayangan ini. Tayangan dengan peringkat ini mungkin mengandung penggunaan alkohol, lebih banyak konten seksual, kekerasan ringan atau sedikit kekerasan kuat, pendarahan berat atau gore, dan/atau tema sugestif.
 
 #### 19
 
@@ -174,11 +174,48 @@ R \(_Restricted_\) ialah tayangan yang direkomendasikan untuk anak-anak berusia 
 
 R+ \(Restricted +\) adalah konten dengan _rating_ [R](rating-konten-penyiaran.md#r) yang memiliki konten tambahan seperti ketelanjangan ringan. Tidak cocok untuk dilihat oleh orang berusia kurang dari 18 tahun.
 
-Rx
+#### Rx
 
-Rx yakni "versi" lanjutan dari _rating_ R+, 
+Rx yakni "versi" lanjutan dari _rating_ R+, mengandung unsur pornografi berat dan/atau psikologis yang dapat mempengaruhi penonton di bawah umur.
 
-## Konversi Rating Penyiaran Televisi
+## Konversi Rating Penyiaran Televisi dan Perfilman
+
+Sistem rating yang digunakan oleh Ryuuganime merupakan rating buatan yang mengacu ke rating Indonesia dan Amerika Serikat. Berikut adalah tabel konversi rating untuk Ryuuganime:
+
+| Ryuuganime | Indonesia | Amerika Serikat | Jepang | Korea | China \(Taiwan\) | MyAnimeList |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [G0+](rating-konten-penyiaran.md#g-0) | SU2+/SU | G/TV-G | G | ALL | 0+ | G |
+| [PS2+](rating-konten-penyiaran.md#ps-2) | P2+ | TV-Y | - | - | - | - |
+| [PG7+](rating-konten-penyiaran.md#pg-7) | A7+ | TV-Y7 | - | 7 | 6+ | PG |
+| [PG13+](rating-konten-penyiaran.md#pg-13-1) | R13+/13+ | PG-13/TV-14 | PG-12/R-15 | 12/15 | 12+/15+ | PG-13 |
+| [R18+](rating-konten-penyiaran.md#r-18-1) | D18+/17+ | R/TV-MA/NC-17 | R-18 | R | 18+ | R/R+ |
+| [GU21+](rating-konten-penyiaran.md#ma-21) | 21+ | TV-MA/NC-17 | - | 19 | - | Rx |
+
+### Legenda Rating
+
+#### G0+
+
+Berasal dari kata "_General_ —_Suitable for all ages_", merupakan rating yang memperbolehkan semua kalangan dan generasi untuk menyaksikan tayangan berikut. Usia minimal ialah mulai dari 0 tahun. Konten ini jarang ditemukan adanya unsur kekerasan atau bahasa ringan. Konten dewasa sangat dilarang ada di rating ini.
+
+#### PS2+
+
+Merupakan singkatan dari "_Pre-School — Suitable for 2 years old up to 6_". Rating ini ditujukan kepada penonton dari usia prasekolah \(PAUD/Playgroup dan TK\), yakni dua tahun keatas hingga berusia 6 tahun lebih. Bimbingan Orangtua untuk rating ini direkomendasikan. Konten yang jatuh ke rating ini dari [rating sebelumnya](rating-konten-penyiaran.md#g-0) biasanya berunsur mendidik.
+
+#### PG7+
+
+Adalah "_Parental Guidance — for 7 years old up to 12_" yang ditujukan kepada penonton anak-anak yang berusia mulai dari 7 hingga 12 tahun. Anak-anak di bawah 7 dilarang menonton tayangan ini. Bimbingan orang tua, guru atau kerabat yang dewasa sangat diprioritaskan dalam rating ini. Tayangan dengan peringkat ini dapat berisi kekerasan ringan, bahasa ringan dan sedikit romansa.
+
+#### PG13+
+
+PG13+ "_Parental Guidance — for 13 years up to 17_" merupakan tayangan untuk remaja dengan umur minimal 13 tahun yang juga memerlukan bimbingan orang tua, seperti [rating sebelumnya](rating-konten-penyiaran.md#pg-7). Remaja di bawah 13 dilarang menonton tayangan ini. Konten dapat berupa fantasi tinggi, konten seksual, atau konten lainnya.
+
+#### R18+
+
+R18+ "_Restricted — only for 18 years old or older_" ialah tayangan untuk remaja berusia 18 tahun ke atas. Konten dengan _rating_ ini dapat mengandung kekerasan fisik maupun seksual ringan, bahasa kasar \(umpatan\), narkotika, alkohol, pendarahan berat, gore, hingga horror. Juga pada genre ini memiliki konten tambahan seperti ketelanjangan ringan. Sangat cocok untuk dilihat oleh orang berusia kurang dari 18 tahun.
+
+#### GU21+
+
+Singkatan dari "_Grown up — for 21+ years old_" atau kadang disebut dengan **MA21+** untuk _Mature — 21+ years old_, merupakan rating terbatas yang hanya ditujukan untuk orang dewasa. Anak-anak dan remaja di bawah usia 21 tahun dilarang menonton tayangan ini. Mengandung unsur pornografi berat dan/atau psikologis yang dapat mempengaruhi penonton di bawah umur.
 
 
 

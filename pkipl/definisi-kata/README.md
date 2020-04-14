@@ -24,7 +24,7 @@ description: >-
 
 ### Database Daring
 
-**Database daring** adalah database yang dapat diakses dari jaringan lokal atau Internet, sebagai lawan dari yang disimpan secara lokal di komputer individu atau penyimpanan yang terpasang \(seperti CD\). **Database daring** di-host di situs web, tersedia sebagai perangkat lunak sebagai produk layanan yang dapat diakses melalui browser web. Beberapa database mungkin dapat digunakan secara gratis atau memerlukan pembayaran, seperti dengan berlangganan bulanan. Beberapa memiliki fitur yang disempurnakan seperti pengeditan kolaboratif dan pemberitahuan email.
+**Database daring** adalah database yang dapat diakses dari jaringan lokal atau Internet, sebagai lawan dari yang disimpan secara lokal di komputer individu atau penyimpanan yang terpasang \(seperti CD\). **Database daring** di-host pada situs web, tersedia sebagai perangkat lunak sebagai produk layanan yang dapat diakses melalui browser web. Beberapa database mungkin dapat digunakan secara gratis atau memerlukan pembayaran, seperti dengan berlangganan bulanan. Beberapa memiliki fitur yang disempurnakan seperti pengeditan kolaboratif dan pemberitahuan email.
 
 > Sumber: [Wikipedia EN](https://en.wikipedia.org/wiki/Online_database), dengan alih bahasa oleh tim Ryuuganime
 

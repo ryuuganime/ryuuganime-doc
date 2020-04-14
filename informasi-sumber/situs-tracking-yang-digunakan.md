@@ -85,7 +85,11 @@
     <tr>
       <td style="text-align:left"><em>Backdrop</em>
       </td>
-      <td style="text-align:left"><b>TMDB</b>, <b>The TVDB</b>, Kitsu, Google</td>
+      <td style="text-align:left"><b>TMDB</b>, <b>The TVDB</b>, Kitsu, Anime-Planet Google</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><em>Visual Key</em> (Poster)</td>
+      <td style="text-align:left"><b>MyAnimeList</b>, <b>Kitsu</b>, AniList, AniDB, Shikimori, Otak Otaku</td>
     </tr>
     <tr>
       <td style="text-align:left">Sinopsis</td>
