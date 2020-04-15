@@ -43,6 +43,26 @@ File ASS termasuk gaya teks, ruang putih, orientasi teks, dan pengaturan lainnya
 
 > Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Markdown)
 
+### .MKV
+
+File MKV adalah format wadah video yang mirip dengan format .AVI, .ASF, dan [.MOV](definisi-format-berkas.md#mov). Ini mendukung beberapa jenis codec audio dan video dan mungkin termasuk [subtitle](./#subtitle) [.SRT](definisi-format-berkas.md#srt), [.SSA](definisi-format-berkas.md#ssa), atau [.USF \(Universal Subtitle Format\)](definisi-format-berkas.md#usf). File MKV juga mendukung subtitle VobSub dari DVD.
+
+Format video Matroska telah menjadi populer di komunitas penggemar subtitle [anime](./#anime) \(di mana pengguna membuat subtitle\) karena mendukung beberapa track audio dan subtitle dalam file yang sama. DivX Player mendukung file MKV di sistem Mac dan Windows. File MKV juga dapat diputar di perangkat seluler Palm, Symbian, dan Pocket PC menggunakan perangkat lunak CorePlayer Mobile.
+
+> Sumber: [Whatext](https://whatext.com/id/mkv)
+
+### .MOV
+
+File MOV adalah format file wadah multimedia umum yang dikembangkan oleh Apple dan kompatibel dengan platform Macintosh dan Windows. Mungkin berisi banyak trek yang menyimpan berbagai jenis data media dan sering digunakan untuk menyimpan film dan file video lainnya. File MOV biasanya menggunakan codec MPEG-4 untuk kompresi.
+
+> Sumber: [Whatext](https://whatext.com/id/mov)
+
+### .MP4
+
+**MPEG-4** sub-bagian 14 atau lebih dikenal sebagai **MP4** adalah salah satu format berkas pengkodean suara dan gambar/video digital yang dikeluarkan oleh sebuah organisasi MPEG. Ekstensi nama berkas jenis MPEG-4 ini banyak menggunakan **.mp4**, dan merupakan pengembangan dari format [QuickTime \(.mov\)](definisi-format-berkas.md#mov) dari Apple.
+
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/MP4)
+
 ## P
 
 ### .PNG
@@ -84,6 +104,14 @@ Format SVG adalah berkas yang dikembangkan di bawah W3C \(World Wide Web Consort
 Format SVG tidak didukung secara _native_ oleh Adobe Photoshop, Photoshop Elements, dan InDesign. Namun, Anda dapat membuka file SVG dalam program ini menggunakan SVG Kit untuk plug-in Adobe CS, yang dikembangkan oleh Scand.
 
 > Sumber: [Whatext](https://whatext.com/id/svg)
+
+## U
+
+### .USF
+
+**Universal Subtitle Format \(USF\)** merupakan projek dari CoreCodex yang mencoba membuat format berkas [subtitel ](./#subtitle)yang rapi, terdokumentasi, kuat, dan mudah untuk digunakan. Berdasarkan dari file [XML ](definisi-format-berkas.md#xml)untuk fleksibilitas, dukungan unicode, sistem hieraki, dan kemudahan dalam administrasi. Berkas USF sering digunakan di kontainer [Matroska](definisi-format-berkas.md#mkv).
+
+> Sumber: [Wikipedia EN](https://en.wikipedia.org/wiki/Universal_Subtitle_Format), dengan alih bahasa oleh tim Ryuuganime
 
 ## W
 

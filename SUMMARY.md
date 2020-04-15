@@ -9,9 +9,9 @@
 * [Kebijakan Privasi \(Privacy Policy\)](pkipl/untitled.md)
 * [Glosarium](pkipl/definisi-kata/README.md)
   * [Format Berkas](pkipl/definisi-kata/definisi-format-berkas.md)
-* [Indeks Informasi Tayangan Animasi](pkipl/indeks-informasi-tayangan-animasi.md)
+* [Pedoman Entri Database](pkipl/indeks-informasi-tayangan-animasi.md)
 * [Rating Konten Penyiaran Pertelevisian dan Perfilman](pkipl/rating-konten-penyiaran.md)
-* [Indeks Situs Fansub, Fanshare, dan Fanstream](pkipl/indeks-situs-fansub-fanshare-dan-fanstream.md)
+* [Pedoman  Indeks Situs Fansub, Fanshare, dan Fanstream](pkipl/indeks-situs-fansub-fanshare-dan-fanstream.md)
 
 ## Informasi Sumber
 

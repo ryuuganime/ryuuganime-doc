@@ -211,7 +211,7 @@ PG13+ "_Parental Guidance — for 13 years up to 17_" merupakan tayangan untuk r
 
 #### R18+
 
-R18+ "_Restricted — only for 18 years old or older_" ialah tayangan untuk remaja berusia 18 tahun ke atas. Konten dengan _rating_ ini dapat mengandung kekerasan fisik maupun seksual ringan, bahasa kasar \(umpatan\), narkotika, alkohol, pendarahan berat, gore, hingga horror. Juga pada genre ini memiliki konten tambahan seperti ketelanjangan ringan. Sangat cocok untuk dilihat oleh orang berusia kurang dari 18 tahun.
+R18+ "_Restricted — only for 18 years old or older_" ialah tayangan untuk remaja berusia 18 tahun ke atas. Konten dengan _rating_ ini dapat mengandung kekerasan fisik maupun seksual ringan, bahasa kasar \(umpatan\), narkotika, alkohol, pendarahan berat, gore, hingga horror. Juga pada genre ini memiliki konten tambahan seperti ketelanjangan ringan. Sangat tidak cocok untuk dilihat oleh orang yang berusia kurang dari 18 tahun.
 
 #### GU21+
 
