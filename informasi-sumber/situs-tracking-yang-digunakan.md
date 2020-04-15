@@ -14,14 +14,12 @@
 | 8 | ![Kino](https://www.google.com/s2/favicons?domain=kinopoisk.ru) | KinoPoisk \(КиноПоиск\) | [https://www.kinopoisk.ru](https://www.kinopoisk.ru) | Film, TV | Rusia |
 | 9 | ![Kitsu](https://www.google.com/s2/favicons?domain=kitsu.io) | Kitsu | [https://kitsu.io](https://kitsu.io) | Anime, Manga, Light Novel | Inggris |
 | 10 | ![LiveChart](https://www.google.com/s2/favicons?domain=livechart.me) | LiveChart | [https://livechart.me](https://livechart.me) | Anime | Inggris |
-| 11 | ![Metacritic](https://www.google.com/s2/favicons?domain=www.metacritic.com) | Metacritic | [https://www.metacritic.com](https://www.metacritic.com) | Film, TV, Musik, Game | Inggris |
 | 12 | ![MAL](https://www.google.com/s2/favicons?domain=myanimelist.net) | MyAnimeList | [https://myanimelist.net](https://myanimelist.net) | Berita, Anime, Manga, Light Novel | Inggris |
 | 13 | ![MyShows](https://www.google.com/s2/favicons?domain=en.myshows.me) | MyShows | [https://en.myshows.me/](https://en.myshows.me/), [https://ua.myshows.me/](https://ua.myshows.me/), [https://myshows.me/](https://myshows.me/) | TV | Inggris, Ukraina, Rusia |
 | 14 | ![Nautiljon](https://www.google.com/s2/favicons?domain=www.nautiljon.com) | Nautiljon | [https://www.nautiljon.com](https://www.nautiljon.com) | Berita, Anime, Manga, Light Novel, Musik, TV, Film | Perancis |
 | 15 | ![Notify](https://www.google.com/s2/favicons?domain=notify.moe) | Notify.moe | [https://notify.moe](https://notify.moe) | Anime, Musik | Inggris |
 | 16 | ![Onnada](https://www.google.com/s2/favicons?domain=onnada.com) | Onnada \(온나다\) | [http://onnada.com/](http://onnada.com/) | Berita, Anime | Korea |
 | 17 | ![Otak Otaku](https://www.google.com/s2/favicons?domain=otakotaku.com) | Otak Otaku | [http://otakotaku.com](http://otakotaku.com) | Berita, Anime, Musik | Indonesia |
-| 18 | ![Rotten](https://www.google.com/s2/favicons?domain=www.rottentomatoes.com) | Rotten Tomatoes | [https://www.rottentomatoes.com](https://www.rottentomatoes.com) | Film, TV | Inggris |
 | 19 | ![Shikimori](https://www.google.com/s2/favicons?domain=shikimori.org) | Shikimori \(Шикимори\) | [https://shikimori.org](https://shikimori.org), [https://shikimori.one](https://shikimori.one) | Berita, Anime, Manga, Light Novel | Rusia, Inggris |
 | 20 | ![SIMKL](https://www.google.com/s2/favicons?domain=simkl.com) | SIMKL | [https://simkl.com](https://simkl.com) | Film, TV, Anime | Inggris |
 | 21 | ![TMDB](https://www.google.com/s2/favicons?domain=themoviedb.org) | The Movie DB | [https://themoviedb.org](https://themoviedb.org) | Film, TV | Inggris |
@@ -31,32 +29,30 @@
 
 ## Fitur Situs Yang Digunakan
 
-| Nama | Judul Asli | Judul Terjemahan | Sinopsis | Sinonima | _Backdrop_ | Genre | Tag | Informasi Delay | Rating | Informasi Lainnya |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| AniDB | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ |
-| AniList | ✔ | ❌ | ❌ | ✔ | ❌ | ✔ | ✔ | ❌ | ✔ | ✔ |
-| Anime-Planet | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ✔ | ❌ | ✔ | ❌ |
-| Anime News Network | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ |
-| AniSearch | ❌ | ✔ | ❌ | ✔ | ❌ | ✔ | ✔ | ❌ | ✔ | ✔ |
-| Annict | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
-| IMDb | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ |
-| KinoPoisk | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
-| Kitsu | ✔ | ❌ | ✔ | ❌ | ✔ | ✔ | ✔ | ❌ | ✔ | ✔ |
-| LiveChart | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ | ✔ | ❌ |
-| Metacritic | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
-| MyAnimeList | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ |
-| MyShows | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ | ✔ |
-| Nautiljon | ❌ | ✔ | ❌ | ✔ | ❌ | ✔ | ❌ | ❌ | ✔ | ❌ |
-| Notify | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ | ✔ | ❌ |
-| Onnada | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌1 | ❌ |
-| Otak Otaku | ✔ | ✔ | ✔ | ✔ | ❌ | ✔ | ❌ | ✔ | ✔ | ✔ |
-| Rotten Tomatoes | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
-| Shikimori | ❌ | ✔ | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ✔ | ❌ |
-| SIMKL | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| The Movie DB | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | ✔ | ✔ |
-| Trakt | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ | ✔ | ✔ | ❌ |
-| The TVDB | ✔ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ✔ | ❌2 | ✔ |
-| TVTime | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ |
+| Nama | Judul Asli | Judul Terjemahan | Sinopsis | Sinonima | Rating Konten | _Backdrop_ | Genre | Tag | Informasi Delay | Rating | Informasi Lainnya |
+| ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| AniDB | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ |
+| AniList | ✔ | ❌ | ❌ | ✔ | ❌ | ❌ | ✔ | ✔ | ❌ | ✔ | ✔ |
+| Anime-Planet | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | ✔ | ❌ | ✔ | ❌ |
+| Anime News Network | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ |
+| AniSearch | ❌ | ✔ | ❌ | ✔ | ❌ | ❌ | ✔ | ✔ | ❌ | ✔ | ✔ |
+| Annict | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
+| IMDb | ✔ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ |
+| KinoPoisk | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
+| Kitsu | ✔ | ❌ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | ❌ | ✔ | ✔ |
+| LiveChart | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ | ✔ | ❌ |
+| MyAnimeList | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ |
+| MyShows | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ✔ | ✔ |
+| Nautiljon | ❌ | ✔ | ❌ | ✔ | ❌ | ❌ | ✔ | ❌ | ❌ | ✔ | ❌ |
+| Notify | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ | ✔ | ❌ |
+| Onnada | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌1 | ❌ |
+| Otak Otaku | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | ❌ | ✔ | ✔ | ✔ |
+| Shikimori | ❌ | ✔ | ✔ | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ✔ | ❌ |
+| SIMKL | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| The Movie DB | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ | ✔ |
+| Trakt | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ | ✔ | ❌ | ✔ | ✔ | ❌ |
+| The TVDB | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | ❌2 | ✔ |
+| TVTime | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ |
 
 ### Catatan Kaki
 
@@ -118,8 +114,8 @@
         <p>Judul Tayangan</p>
         <p>(Terjemahan, tidak berurut)</p>
       </td>
-      <td style="text-align:left">AniDB, AniList, Kitsu, MyAnimeList, The TVDB, Shikimori, MyShows, Otak
-        Otaku, IMDb, Nautiljon (jika ada)</td>
+      <td style="text-align:left">AniDB, Anime News Network, AniList, Kitsu, MyAnimeList, The TVDB, Shikimori,
+        MyShows, Otak Otaku, IMDb, Nautiljon (jika ada)</td>
     </tr>
     <tr>
       <td style="text-align:left">Informasi tambahan (Tipe, Episode, Durasi, Studio, Sumber, Negara)</td>
@@ -130,7 +126,8 @@
     <tr>
       <td style="text-align:left">&lt;em&gt;&lt;/em&gt;<a href="../pkipl/rating-konten-penyiaran.md"><em>Rating </em>Konten</a>
       </td>
-      <td style="text-align:left"><b>TMDB</b>, <b>The TVDB</b>, MyAnimeList, Shikimori, Kitsu</td>
+      <td style="text-align:left"><b>TMDB</b>, <b>The TVDB</b>, <b>IMDB</b>, <b>Trakt</b>, <b>SIMKL</b>, MyAnimeList,
+        Shikimori, Kitsu</td>
     </tr>
     <tr>
       <td style="text-align:left"><em>Genre</em>
