@@ -180,7 +180,7 @@ Rx yakni "versi" lanjutan dari _rating_ R+, mengandung unsur pornografi berat da
 
 ## Konversi Rating Penyiaran Televisi dan Perfilman
 
-Sistem rating yang digunakan oleh Ryuuganime merupakan rating buatan yang mengacu ke rating Indonesia dan Amerika Serikat. Berikut adalah tabel konversi rating untuk Ryuuganime:
+Sistem rating yang digunakan oleh Ryuuganime merupakan rating buatan yang mengacu ke rating Indonesia dan Amerika Serikat. Kutipan dan referensi lanjutan mungkin diperlukan untuk membuat _rating_ ini seakurat mungkin. Berikut adalah tabel konversi rating untuk Ryuuganime:
 
 | Ryuuganime | Indonesia | Amerika Serikat | Jepang | Korea | China \(Taiwan\) | MyAnimeList |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -216,6 +216,3 @@ R18+ "_Restricted — only for 18 years old or older_" ialah tayangan untuk rema
 #### GU21+
 
 Singkatan dari "_Grown up — for 21+ years old_" atau kadang disebut dengan **MA21+** untuk _Mature — 21+ years old_, merupakan rating terbatas yang hanya ditujukan untuk orang dewasa. Anak-anak dan remaja di bawah usia 21 tahun dilarang menonton tayangan ini. Mengandung unsur pornografi berat dan/atau unsur psikologis yang dapat mempengaruhi penonton di bawah umur.
-
-
-
