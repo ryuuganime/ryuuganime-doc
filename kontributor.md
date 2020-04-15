@@ -1,13 +1,24 @@
-# Tim Utama dan Para Kontributor
+# Tim Utama, Kontributor, dan Donatur
 
 ## Tim Utama Ryuuganime
 
-| Nama | Username Discord | Website | Peranan |
-| :--- | :--- | :--- | :--- |
-| Natsu Tadama | `nattadasu#3867` | [![Weebly](https://www.google.com/s2/favicons?domain=weebly.com) Blog](https://tadamanatsu.weebly.com) |  |
-| Kazuhito Yamashita | `YamashitaKazuhito#9781` | [![Fandom](https://www.google.com/s2/favicons?domain=community.fandom.com) Fandom](https://community.fandom.com/wiki/User:PegaxusKiller) | DB Mod |
-| Yae | Yae\#7900 | - |  |
-| Yehezkiel | Yeski\#2637 |  |  |
+| Nama | Discord | GitHub | Peranan |
+| :--- | :--- | :--- | :---: |
+| Natsu Tadama | `nattadasu#3867` | nattadasu | Lead Admin |
+| Kazuhito Yamashita | `YamashitaKazuhito#9781` | YamashitaKazuhito | Anime DB Mod |
+| Hatta | - | Hatta56 | Anime DB Mod |
+| Yae | `Yae#7900` | Yae-chan | Anime DB Mod |
+| Yehezkiel | `Yeski#2637` | yeheizkiel | Anime DB Mod, Scripter |
 
-_NB: Username Discord \(dengan Discriminator\), website, dan peranan bersifat opsional_
+## Kontributor
+
+| Nama | Discord | GitHub | Peranan |
+| :--- | :--- | :--- | :--- |
+| - | - | - | - |
+
+## Donatur
+
+| Nomor | Nama | Discord | GitHub |
+| :--- | :--- | :--- | :--- |
+| 1 | Yae | `Yae#7900` | Yae-chan |
 

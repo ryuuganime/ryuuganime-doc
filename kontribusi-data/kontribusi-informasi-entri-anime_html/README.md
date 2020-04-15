@@ -1,3 +1,10 @@
+---
+description: >-
+  Pengisian Database dengan menggunakan format berkas HTML akan tidak
+  dilanjutkan pengembangannya. Selainnya, Ryuuganime akan menggunakan JavaScript
+  yang dapat mengambil data database dari JSON.
+---
+
 # Kontribusi Informasi Entri Anime \(HTML\)
 
 > Sebelum melanjutkan, pastikan Anda dapat mengakses website yang telah didaftar di [sini](../../informasi-sumber/situs-tracking-yang-digunakan.md).  
