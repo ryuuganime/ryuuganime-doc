@@ -2,7 +2,8 @@
 
 * [Beranda](README.md)
 * [Tentang](tentang.md)
-* [Kontributor](kontributor.md)
+* [Tim Utama dan Para Kontributor](kontributor.md)
+* [Donasi](donasi.md)
 
 ## Peraturan, Ketentuan, dan Informasi Penting Lainnya <a id="pkipl"></a>
 
