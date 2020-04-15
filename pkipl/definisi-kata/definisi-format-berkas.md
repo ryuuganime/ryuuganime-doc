@@ -77,7 +77,7 @@ Format PNG ini diperkenalkan untuk menggantikan format penyimpanan citra GIF. Se
 
 ### .SSA
 
-SubStation Alpha \(atau Sub Station Alpha\), disingkat SSA, adalah format file [subtitle ](./#subtitle)yang dibuat oleh CS Low \(juga dikenal sebagai Kotus\) yang memungkinkan berkas subtitle lebih maju daripada [SRT](definisi-format-berkas.md#srt) konvensional dan format serupa. Format ini dapat dirender dengan VSFilter bersama dengan pemutar video DirectShow-aware \(di Microsoft Windows\), atau MPlayer dengan pustaka SSA / ASS.
+SubStation Alpha \(atau Sub Station Alpha\), disingkat SSA, adalah format file [subtitle ](./#subtitle)yang dibuat oleh CS Low \(juga dikenal sebagai Kotus\) yang memungkinkan berkas subtitle yang lebih unggul daripada [SRT](definisi-format-berkas.md#srt) konvensional dan format serupa. Format ini dapat dirender dengan VSFilter bersama dengan pemutar video DirectShow-aware \(di Microsoft Windows\), atau MPlayer dengan pustaka SSA / ASS.
 
 > Sumber: [Wikipedia EN](https://en.wikipedia.org/wiki/SubStation_Alpha) dengan alih bahasa oleh tim Ryuuganime
 
