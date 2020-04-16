@@ -1,10 +1,6 @@
----
-description: >-
-  Dengan berdonasi, Anda membantu tim Ryuuganime dalam pengembangan database dan
-  situs. Mari berdonasi sekarang agar Ryuuganime akan terus berkembang!
----
-
 # Donasi
+
+Dengan berdonasi, Anda membantu tim Ryuuganime dalam pengembangan database dan situs. Mari berdonasi sekarang agar Ryuuganime akan terus berkembang!
 
 ## Scheduled Donation
 
@@ -49,7 +45,7 @@ description: >-
 ## Catatan
 
 1. Untuk donasi melalui rekening bank, silakan hubungi dahulu. Alternatifnya, kamu dapat memberikan donasi kamu lewat bank ke _virtual wallet_.
-2. Ingin kirim melalui virtual wallet, tapi takut tersesat karena _ngga tau_ nama? Kontak langsung melalui DM di Discord \([`nattadasu#3867`](https://discordapp.com/channels/@me/384089845527478272)\). '-'\)/
+2. Ingin kirim melalui virtual wallet, _tapi_ takut tersesat karena _ngga tau_ nama? Kontak langsung melalui DM di Discord \([`nattadasu#3867`](https://discordapp.com/channels/@me/384089845527478272)\).
 3. Mau berdonasi lewat _cryptocurrency_ yang tidak ada dalam list? Kontak \(lagi\) nattadasu untuk mulai berdebat.
 4. Jika bisa, tolong untuk melampirkan catatan saat proses transfer `Donasi Ryuuganime` disertai Username \(Discord, jika punya\) agar mempermudah pendataan.
 

@@ -22,9 +22,17 @@ description: >-
 
 ## D
 
+### Database \(Pangkalan Data\)
+
+**Pangkalan data** atau **basis data** \(bahasa Inggris: _database_\) adalah kumpulan informasi yang disimpan di dalam [komputer](https://id.wikipedia.org/wiki/Komputer) secara sistematik sehingga dapat diperiksa menggunakan suatu program komputer untuk memperoleh informasi dari basis data tersebut. Perangkat lunak yang digunakan untuk mengelola dan memanggil kueri \(query\) basis data disebut sistem manajemen basis data \(database management system, DBMS\). Sistem basis data dipelajari dalam ilmu informasi.
+
+Istilah "basis data" berawal dari ilmu komputer. Meskipun kemudian artinya semakin luas, memasukkan hal-hal di luar bidang elektronika, artikel ini mengenai basis data komputer. Catatan yang mirip dengan basis data sebenarnya sudah ada sebelum revolusi industri yaitu dalam bentuk buku besar, kuitansi dan kumpulan data yang berhubungan dengan bisnis.
+
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Pangkalan_data)
+
 ### Database Daring
 
-**Database daring** adalah database yang dapat diakses dari jaringan lokal atau Internet, sebagai lawan dari yang disimpan secara lokal di komputer individu atau penyimpanan yang terpasang \(seperti CD\). **Database daring** di-host pada situs web, tersedia sebagai perangkat lunak sebagai produk layanan yang dapat diakses melalui browser web. Beberapa database mungkin dapat digunakan secara gratis atau memerlukan pembayaran, seperti dengan berlangganan bulanan. Beberapa memiliki fitur yang disempurnakan seperti pengeditan kolaboratif dan pemberitahuan email.
+**Database daring** adalah [database](./#database-pangkalan-data) yang dapat diakses dari jaringan lokal atau Internet, sebagai lawan dari yang disimpan secara lokal di komputer individu atau penyimpanan yang terpasang \(seperti CD\). **Database daring** di-host pada situs web, tersedia sebagai perangkat lunak sebagai produk layanan yang dapat diakses melalui browser web. Beberapa database mungkin dapat digunakan secara gratis atau memerlukan pembayaran, seperti dengan berlangganan bulanan. Beberapa memiliki fitur yang disempurnakan seperti pengeditan kolaboratif dan pemberitahuan email.
 
 > Sumber: [Wikipedia EN](https://en.wikipedia.org/wiki/Online_database), dengan alih bahasa oleh tim Ryuuganime
 
@@ -61,6 +69,24 @@ Karena tindakan pendistribusian "materi yang di-[subtitle ](./#subtitle)oleh fan
 **Film**, juga dikenal sebagai **movie**, **gambar hidup**, **film teater** atau **foto bergerak**, merupakan serangkaian gambar diam, yang ketika ditampilkan pada layar akan menciptakan ilusi gambar bergerak karena efek fenomena phi. Ilusi optik ini memaksa penonton untuk melihat gerakan berkelanjutan antar objek yang berbeda secara cepat dan berturut-turut. Proses pembuatan film merupakan gabungan dari seni dan industri. Sebuah film dapat dibuat dengan memotret adegan sungguhan dengan kamera film; memotret gambar atau model "miniatur" menggunakan teknik [animasi](./#animasi) tradisional; dengan CGI dan animasi komputer; atau dengan kombinasi beberapa teknik yang ada dan efek visual lainnya.
 
 > Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Film)
+
+### Fon
+
+**Fon** \(bahasa Inggris: _font_\) adalah sebuah rupa huruf yang memiliki ukuran, berat, dan gaya tertentu. Istilah ini terutama dipakai di dalam percetakan tradisional yang menggunakan metal. Dalam dunia modern "fon" sering kali identik dengan "rupa huruf", walaupun keduanya belum tentu memiliki makna yang sama. Misalnya rupa huruf Bulmer memiliki fon-fon "Bulmer roman", "Bulmer bold", "Bulmer italic", dll. — namun kata "fon" dapat diaplikasikan kepada masing-masing dari mereka maupun secara keseluruhan.
+
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Fon_%28tipografi%29)
+
+## G
+
+### Git
+
+**Git** adalah perangkat lunak [pengendali versi](./#repositori-kendali-versi) atau proyek manajemen kode perangkat lunak yang diciptakan oleh Linus Torvalds, yang pada awalnya ditujukan untuk pengembangan kernel Linux. Desain Git terinspirasi oleh BitKeeper dan Monotone.
+
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Git)
+
+### GitHub
+
+**GitHub** adalah layanan hos web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem [kendali versi](./#repositori-kendali-versi) [Git](./#git) dan layanan hosting internet. Hal ini banyak digunakan untuk kode komputer. Ini memberikan kontrol akses dan beberapa fitur kolaborasi seperti pelacakan bug, permintaan fitur, manajemen tugas, dan [wiki](./#wiki) untuk setiap proyek.
 
 ## K
 
@@ -116,6 +142,20 @@ Sebuah _**original net animation**_ \(**ONA**\) adalah [anime](./#anime) yang la
 
 > Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Animasi_video_orisina)
 
+## P
+
+### Peladen \(Server\)
+
+**Peladen** \(bahasa Inggris: _server_\) merupakan sebuah sistem komputer yang menyediakan jenis layanan tertentu dalam sebuah jaringan komputer. Peladen didukung dengan prosesor yang bersifat scalable dan RAM yang besar,dan juga dilengkapi dengan sistem operasi khusus, yang disebut sebagai sistem operasi jaringan. Peladen juga menjalankan perangkat lunak administratif yang mengontrol akses terhadap jaringan dan sumber daya yang terdapat di dalamnya contoh sepertihalnya berkas atau pencetak, dan memberikan akses kepada stasiun kerja anggota jaringan.
+
+## R
+
+### Repositori \(Kendali Versi\)
+
+**Repositori** adalah struktur data yang menyimpan metadata untuk sekumpulan struktur berkas atau direktori. Bergantung pada apakah sistem kendali versi yang digunakan itu didistribusikan \(misalnya, [Git](./#git) atau Mercurial\) atau terpusat \(misalnya, Subversion atau Perforce\), seluruh rangkaian informasi dalam repositori dapat diduplikasi pada sistem setiap pengguna atau dapat dipelihara pada satu [peladen](./#peladen-server).
+
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Repositori_%28kendali_versi%29)
+
 ## S
 
 ### Serial Televisi \(Acara Televisi\)
@@ -149,6 +189,12 @@ Biasanya, _**subtitle**_ yang disebarkan oleh kelompok [fansub ](./#fansub)berfo
 Komik daring dapat dibandingkan dengan komik cetak yang diterbitkan sendiri di mana hampir semua orang dapat membuat komik daring mereka sendiri dan mempublikasikannya. Tingkat pembaca bervariasi; banyak yang hanya dibaca oleh teman-teman langsung dari pencipta dan keluarga, sementara beberapa pembaca diklaim jauh lebih besar di mana dari satu juta pembaca.
 
 > Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Komik_web)
+
+### Widget Perangkat Lunak
+
+**Widget perangkat lunak** adalah aplikasi perangkat lunak yang relatif sederhana dan mudah digunakan, yang diciptakan bagi satu atau lebih _platform_ perangkat lunak, misalnya aksesoris meja atau _applet_, berbeda dengan aplikasi-aplikasi yang lebih kompleks seperti spreadsheet atau pengolah kata. Widget adalah contoh aplikasi pelengkap dan tambahan yang tidak memonopoli intensi pengguna.
+
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Widget_perangkat_lunak)
 
 ### Wiki
 
