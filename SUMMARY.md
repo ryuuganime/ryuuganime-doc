@@ -20,11 +20,11 @@
 * [Daftar Sumber Situs untuk Database Anime](informasi-sumber/sumber-situs-untuk-database-anime.md)
 * [Template](informasi-sumber/template.md)
 * [Daftar Penggunaan Aset](informasi-sumber/sumber-penggunaan-aset.md)
+* [Mencari Entri Web Lain Melalui SIMKL Search](informasi-sumber/mencari-entri-web-lain-di-simkl.md)
 
 ## Kontribusi Data
 
 * [Kontribusi Informasi Entri Anime \(HTML\)](kontribusi-data/kontribusi-informasi-entri-anime_html/README.md)
-  * [Mencari Entri Web Lain Melalui SIMKL Search](kontribusi-data/kontribusi-informasi-entri-anime_html/mencari-entri-web-lain-di-simkl.md)
   * [Mengisi Tautan Gambar dari TMDB dan TVDB](kontribusi-data/kontribusi-informasi-entri-anime_html/mengisi-tautan-gambar-dari-tmdb-dan-tvdb.md)
   * [Judul Alternatif dan Sinonima](kontribusi-data/kontribusi-informasi-entri-anime_html/judul-alternatif-dan-sinonima.md)
   * [Status Penayangan](kontribusi-data/kontribusi-informasi-entri-anime_html/status-penayangan.md)

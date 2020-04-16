@@ -8,7 +8,7 @@ description: >-
 # Kontribusi Informasi Entri Anime \(HTML\)
 
 > Sebelum melanjutkan, pastikan Anda dapat mengakses website yang telah didaftar di [sini](../../informasi-sumber/situs-tracking-yang-digunakan.md).  
-> Disarankan untuk memiliki ekstensi SIMKL Search untuk mempermudah dalam input data. Lihat di [sini](mencari-entri-web-lain-di-simkl.md).  
+> Disarankan untuk memiliki ekstensi SIMKL Search untuk mempermudah dalam input data. Lihat di [sini](../../informasi-sumber/mencari-entri-web-lain-di-simkl.md).  
 > Anda juga disarankan untuk telah meng-_fork_ repo Ryuuganime, memasang aplikasi Git dan Visual Studio Code versi terbaru
 
 Berikut tata cara menginput data:
