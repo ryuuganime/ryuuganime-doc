@@ -16,6 +16,10 @@
 | :--- | :--- | :--- | :--- |
 | - | - | - | - |
 
+## Statistik Kontribusi \(Langsung\)
+
+[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/0)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/0)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/1)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/1)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/2)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/2)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/3)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/3)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/4)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/4)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/5)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/5)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/6)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/6)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/7)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/7)
+
 ## Donatur
 
 | Nomor | Nama | Discord | GitHub |
