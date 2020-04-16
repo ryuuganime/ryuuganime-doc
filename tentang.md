@@ -2,13 +2,13 @@
 
 ## Apa Itu [**Ryuuganime**](https://ryuuganime.blogspot.com)?
 
-Ryuuganime merupakan situs portal indeks [_anime_](https://id.wikipedia.org/wiki/Anime) bersubtitel bahasa Indonesia maupun bahasa Inggris yang menggabungkan tautan _streaming_/unduhan resmi \(_official_\), _fansub_, dan _fanshare_ \(termasuk _batch_\) ke dalam satu laman lengkap dengan ulasan dan skor _anime_ dari hampir 20 situs _tracking anime_ dan TV-Movie terkenal.
+Ryuuganime merupakan situs portal indeks [_database_](pkipl/definisi-kata/#database-pangkalan-data) __[_anime_](pkipl/definisi-kata/#anime) ber[subtitel](pkipl/definisi-kata/#subtitle) bahasa Indonesia maupun bahasa Inggris yang menggabungkan tautan [_fansub_](pkipl/definisi-kata/#fansub), dan [_fanshare_](pkipl/definisi-kata/#fanshare) \(termasuk _batch_\) ke dalam satu laman lengkap dengan ulasan dan skor _anime_ dari hampir 20 situs _tracking anime_ dan TV-Movie terkenal.
 
-Informasi mengenai _tracker_ yang digunakan oleh Ryuuganime dapat dilihat [disini](https://github.com/ryuuganime/Ryuuganime/blob/master/Assets/Providers/Trackers/README.md).
+Informasi mengenai _tracker_ yang digunakan oleh Ryuuganime dapat dilihat [disini](informasi-sumber/situs-tracking-yang-digunakan.md).
 
 ## Siapa Saja yang Mengelola Situs Ini?
 
-Pengelola situs Ryuugamine saat ini hanya [nattadasu](https://github.com/nattadasu/Personal). Ryuugamine sekarang sedang mencari sukarelawan yang mempunyai luang waktu untuk mengisi data di web tersebut.
+Anda dapat melihatnya di [sini](kontributor.md).
 
 ## Website Ini Menggunakan Jasa Dari Mana?
 
@@ -19,9 +19,9 @@ Informasi mengenai layanan yang digunakan oleh Ryuuganime dapat dilihat [disini]
 
 ## Sejak Kapan **Ryuuganime** Dibentuk?
 
-Ryuuganime dibentuk pada Juni 27, 2019, [lebih tepatnya pada pukul 22.04 WIB](https://www.facebook.com/story.php?story_fbid=771156279946124&id=248649265530164) dikarenakan _website fanshare_ yang terkenal di Indonesia, yaitu [Meownime](https://meownime.com) dan [Meowstream](https://meowstream.com) ditutup secara resmi pada pukul 15.34 WIB di hari yang sama sekaligus merupakan hasil ide dari [nattadasu](https://github.com/nattadasu/Personal) sejak 3 bulan yang lalu.
+Ryuuganime dibentuk pada Juni 27, 2019, [lebih tepatnya pada pukul 22.04 WIB](https://www.facebook.com/story.php?story_fbid=771156279946124&id=248649265530164) dikarenakan _website fanshare_ yang terkenal di Indonesia, yaitu [Meownime](https://meownime.com) dan [Meowstream](https://meowstream.com) ditutup secara resmi pada pukul 15.34 WIB di hari yang sama sekaligus merupakan hasil ide dari nattadasu sejak 3 bulan yang lalu.
 
-## Mengapa _Repo_ **Ryuuganime** Ada Di [GitHub](https://github.com)?
+## Mengapa [_Repo_ ](pkipl/definisi-kata/#repositori-kendali-versi)**Ryuuganime** Ada Di [GitHub](pkipl/definisi-kata/#github)?
 
 Jika diperhatikan lebih teliti, Ryuuganime memiliki tidak sebatas _icon_ pintasan situs saja, tetapi juga memiliki elemen lainnya \(seperti [_template_](https://github.com/ryuuganime/Ryuuganime/blob/master/Templates/amino.html) dll\) yang tidak memungkinkan kalau data tersebut disimpan di [Google Drive](https://www.google.com/drive/), [Microsoft OneDrive](https://onedrive.live.com/OneDrive), maupun layanan [_cloud storage_](https://id.wikipedia.org/wiki/Penyimpanan_awan) lainnya.
 
@@ -29,5 +29,5 @@ Kami juga berharap dengan adanya _repo_ di GitHub dapat memudahkan kontributor u
 
 ## Informasi Lebih Lanjut
 
-Hubungi nattadasu melalui [Discord](https://github.com/nattadasu/Personal/blob/master/assets/discord/readme.md), [Twitter](https://twitter.com/nattadasu), [Instagram](https://instagram.com/nattadasu), maupun melalui _Issue_ di _repo_ ini ataupun melalui [nattadasu/Personal](https://github.com/nattadasu/Personal).
+Hubungi kami melalui [Discord](https://github.com/nattadasu/Personal/blob/master/assets/discord/readme.md), [Twitter](https://twitter.com/nattadasu), [Instagram](https://instagram.com/nattadasu), maupun melalui _Issue_ di _repo_ [Ryuuganime](https://github.com/ryuuganime/Ryuuganime/issues).
 

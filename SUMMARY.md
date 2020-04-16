@@ -8,6 +8,7 @@
 ## Peraturan, Ketentuan, dan Informasi Penting Lainnya <a id="pkipl"></a>
 
 * [Kebijakan Privasi \(Privacy Policy\)](pkipl/privacy-policy.md)
+* [Kode Etik](pkipl/kode-etik.md)
 * [Glosarium](pkipl/definisi-kata/README.md)
   * [Format Berkas](pkipl/definisi-kata/definisi-format-berkas.md)
 * [Pedoman Entri Database](pkipl/indeks-informasi-tayangan-animasi.md)
@@ -20,7 +21,6 @@
 * [Daftar Sumber Situs untuk Database Anime](informasi-sumber/sumber-situs-untuk-database-anime.md)
 * [Template](informasi-sumber/template.md)
 * [Daftar Penggunaan Aset](informasi-sumber/sumber-penggunaan-aset.md)
-* [Mencari Entri Web Lain Melalui SIMKL Search](informasi-sumber/mencari-entri-web-lain-di-simkl.md)
 
 ## Kontribusi Data
 
@@ -31,4 +31,9 @@
   * [Genre dan Tag](kontribusi-data/kontribusi-informasi-entri-anime_html/genre-dan-tag.md)
   * [Musim](kontribusi-data/kontribusi-informasi-entri-anime_html/musim.md)
   * [Studio](kontribusi-data/kontribusi-informasi-entri-anime_html/studio.md)
+
+## Ketentuan Database
+
+* [Mencari Entri Web Lain Melalui SIMKL Search](ketentuan-database/mencari-entri-web-lain-di-simkl.md)
+* [Genre dan Tags](ketentuan-database/genre-dan-tags.md)
 
