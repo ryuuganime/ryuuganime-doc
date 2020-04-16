@@ -7,7 +7,7 @@
 
 ## Peraturan, Ketentuan, dan Informasi Penting Lainnya <a id="pkipl"></a>
 
-* [Kebijakan Privasi \(Privacy Policy\)](pkipl/untitled.md)
+* [Kebijakan Privasi \(Privacy Policy\)](pkipl/privacy-policy.md)
 * [Glosarium](pkipl/definisi-kata/README.md)
   * [Format Berkas](pkipl/definisi-kata/definisi-format-berkas.md)
 * [Pedoman Entri Database](pkipl/indeks-informasi-tayangan-animasi.md)

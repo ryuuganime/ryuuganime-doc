@@ -90,7 +90,7 @@ Setelah periode penyimpanan berakhir, Data Pribadi akan dihapus. Oleh karena itu
 
 Data tentang Pengguna dikumpulkan untuk memungkinkan Pemilik memberikan Layanannya, mematuhi hukumnya kewajiban, menanggapi permintaan penegakan hukum, melindungi hak dan kepentingannya \(atau hak penggunanya atau ketiga pihak\), mendeteksi aktivitas jahat atau penipuan, serta yang berikut: Interaksi dengan sosial eksternal jaringan dan platform, layanan Platform dan hosting dan Menampilkan konten dari platform eksternal.
 
-Untuk informasi spesifik tentang Data Pribadi yang digunakan untuk setiap tujuan, Pengguna dapat merujuk ke bagian "[Informasi terperinci tentang pemrosesan Data Pribadi](untitled.md#informasi-terperinci-tentang-pemrosesan-data-pribadi)".
+Untuk informasi spesifik tentang Data Pribadi yang digunakan untuk setiap tujuan, Pengguna dapat merujuk ke bagian "[Informasi terperinci tentang pemrosesan Data Pribadi](privacy-policy.md#informasi-terperinci-tentang-pemrosesan-data-pribadi)".
 
 ## Informasi Terperinci Tentang Pemrosesan Data Pribadi
 
