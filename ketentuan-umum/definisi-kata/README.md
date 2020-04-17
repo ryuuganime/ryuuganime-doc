@@ -1,10 +1,8 @@
----
-description: >-
-  Halaman ini merupakan arti dari rujukan kata yang digunakan pada wiki
-  Ryuuganime berikut.
----
-
 # Glosarium
+
+{% hint style="info" %}
+Halaman ini merupakan arti dari rujukan kata yang digunakan pada [wiki](./#wiki) Ryuuganime.
+{% endhint %}
 
 ## A
 
