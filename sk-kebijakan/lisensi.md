@@ -13,7 +13,9 @@ Berikut adalah lisensi lengkap dari lisensi yang digunakan Ryuuganime:
 
 ## Boost Software License 1.0
 
+{% hint style="info" %}
 Lisensi Perangkat Lunak Boost - Versi 1.0 - 17 Agustus 2003
+{% endhint %}
 
 Izin dengan ini diberikan, gratis, kepada siapa pun atau organisasi yang memperoleh salinan perangkat lunak dan dokumentasi terlampir yang dicakup oleh lisensi ini \("Perangkat Lunak"\) untuk menggunakan, mereproduksi, menampilkan, mendistribusikan, mengeksekusi, dan mengirimkan Perangkat Lunak, dan untuk menyiapkan karya turunan dari Perangkat Lunak, dan untuk mengizinkan pihak ketiga kepada siapa Perangkat Lunak dilengkapi untuk melakukannya, semua tunduk pada yang berikut:
 
@@ -25,7 +27,9 @@ PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK
 
 ## Creative Commons BY-SA 4.0 International
 
-**Lisensi Publik Creative Commons Atribusi-BerbagiSerupa 4.0 Internasional**
+{% hint style="info" %}
+Lisensi Publik Creative Commons Atribusi-BerbagiSerupa 4.0 Internasional
+{% endhint %}
 
 Dengan menggunakan Hak Lisensi \(penjelasan di bawah\), Anda menerima dan setuju untuk terikat dengan syarat dan ketentuan dari Lisensi Publik Creative Commons Atribusi-BerbagiSerupa 4.0 Internasional \(“Lisensi Publik”\). Sejauh Lisensi Publik ini dapat dipandang sebagai kontrak, Anda menerima Hak Lisensi dengan mempertimbangkan persetujuan Anda atas syarat dan ketentuan berikut, dan Pemberi Lisensi memberikan Anda hak-hak tersebut dengan mempertimbangkan manfaat yang diterima Pemberi Lisensi dengan menyebarluaskan Materi Berlisensi di bawah syarat dan ketentuan berikut.
 
@@ -139,7 +143,9 @@ Creative Commons dapat dihubungi melalui [creativecommons.org](https://creativec
 
 ## Creative Common BY 4.0 International
 
-**Lisensi Publik Creative Commons Atribusi 4.0 Internasional**
+{% hint style="info" %}
+Lisensi Publik Creative Commons Atribusi 4.0 Internasional
+{% endhint %}
 
 Dengan menggunakan Hak Lisensi \(penjelasan di bawah\), Anda menerima dan setuju untuk terikat dengan syarat dan ketentuan dari Lisensi Publik Creative Commons Atribusi 4.0 Internasional \(“Lisensi Publik”\). Sejauh Lisensi Publik ini dapat dipandang sebagai kontrak, Anda menerima Hak Lisensi dengan mempertimbangkan persetujuan Anda atas syarat dan ketentuan berikut, dan Pemberi Lisensi memberikan Anda hak-hak tersebut dengan mempertimbangkan manfaat yang diterima Pemberi Lisensi dengan menyebarluaskan Materi Berlisensi di bawah syarat dan ketentuan berikut.
 
