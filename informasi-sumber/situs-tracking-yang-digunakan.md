@@ -61,7 +61,9 @@
 
 ## Urutan Pengambilan Data
 
-> Daftar diurutkan dari prioritas \(ditebalkan\) hingga opsi alternatif apabila tidak ditemukan.
+{% hint style="info" %}
+Daftar diurutkan dari prioritas \(ditebalkan\) hingga opsi alternatif apabila tidak ditemukan.
+{% endhint %}
 
 <table>
   <thead>

@@ -13,8 +13,12 @@
 ## Ketentuan untuk Fanstream dan Fanshare
 
 1. Ryuuganime berhak meniadakan indeks tautan ke situs _Fanstream_ maupun _Fanshare_ apabila ada ketentuan tambahan dari pihak _fansub_ berupa larangan menyebarluaskan data. Berikut adalah situs-situs yang mempunyai larangan tersebut:
-   1. Kopajasubs. [Lihat disini](http://blog.kopajasubs.info/p/tentang-kopajasubs.html) `CATATAN KAKI: Pihak Ryuuganime akan/sedang membahas ketentuan ini dari para pemilik situs fansub Indonesia. Hasil dari pembahasan akan diumumkan melalui server Discord resmi Ryuuganime maupun langsung dalam commit repo GitHub Ryuuganime.`
+   1. Kopajasubs. [Lihat disini](http://blog.kopajasubs.info/p/tentang-kopajasubs.html)
 2. Situs mempunyai minimal 2 server data dan/atau memiliki opsi kualitas tayangan minimal 3 resolusi.
+
+{% hint style="info" %}
+Pihak Ryuuganime akan/sedang membahas ketentuan larangan penyebaran hasil [takarir](definisi-kata/#subtitle) dari pemilik situs _fansub_. Hasil dari pembahasan akan diumumkan melalui server Discord resmi Ryuuganime maupun langsung dalam commit repo GitHub Ryuuganime.
+{% endhint %}
 
 
 

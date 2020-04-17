@@ -1,5 +1,9 @@
 # Kebijakan Privasi \(Privacy Policy\)
 
+{% hint style="info" %}
+For English speakers, read [https://www.iubenda.com/privacy-policy/56352000](https://www.iubenda.com/privacy-policy/56352000)
+{% endhint %}
+
 Hai dan terima kasih untuk telah menggunakan Ryuuganime sebagai situs [_database_](../ketentuan-umum/definisi-kata/#database-pangkalan-data) [anime](../ketentuan-umum/definisi-kata/#anime) dan indeks laman [_fansub_](../ketentuan-umum/definisi-kata/#fansub), [_fanshare_](../ketentuan-umum/definisi-kata/#fanshare), dan [_fanstreaming_](../ketentuan-umum/definisi-kata/#fanstream) dalam bahasa Indonesia.
 
 Dengan menggunakan layanan ini, Anda telah menyetujui penggunaan data yang Anda berikan kepada pihak Ryuuganime dan pengembang layanan pihak ketiga lainnya.
@@ -22,9 +26,13 @@ Ryuuganime menggunakan:
 
 Berikut adalah dokumentasi lengkap untuk kebijakan privasi situs _database_ Ryuuganime, repo publik, dan wiki ini.
 
-> **CATATAN:**  
-> Dokumentasi ini digenerasikan secara otomatis menggunakan [iubenda](https://www.iubenda.com/privacy-policy/56352000) dan telah dialih bahasakan menggunakan Google Translate dengan penyesuaian bahasa oleh Tim Ryuuganime.  
-> Dokumentasi ini bersifat nonpermanen. Kutipan dan referensi lanjutan mungkin diperlukan dalam penyuntingan dokumen. Perubahan dokumentasi akan disertai/tidak dengan pengumuman publik melalui [Peladen \(Server\)](../ketentuan-umum/definisi-kata/#peladen-server) umum Ryuuganime di Discord.
+{% hint style="warning" %}
+Dokumentasi ini digenerasikan secara otomatis menggunakan [iubenda](https://www.iubenda.com/privacy-policy/56352000) dan telah dialih bahasakan menggunakan Google Translate dengan penyesuaian bahasa oleh Tim Ryuuganime.
+{% endhint %}
+
+{% hint style="warning" %}
+Dokumentasi ini bersifat nonpermanen. Kutipan dan referensi lanjutan mungkin diperlukan dalam penyuntingan dokumen. Perubahan dokumentasi akan disertai/tidak dengan pengumuman publik melalui [Peladen \(Server\)](../ketentuan-umum/definisi-kata/#peladen-server) umum Ryuuganime di Discord.
+{% endhint %}
 
 ## Pemilik dan Pengontrol Data
 

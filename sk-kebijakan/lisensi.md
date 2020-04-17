@@ -19,7 +19,9 @@ Izin dengan ini diberikan, gratis, kepada siapa pun atau organisasi yang mempero
 
 Pemberitahuan hak cipta dalam Perangkat Lunak dan seluruh pernyataan ini, termasuk pemberian lisensi di atas, pembatasan ini dan penafian berikut, harus dimasukkan dalam semua salinan Perangkat Lunak, secara keseluruhan atau sebagian, dan semua karya turunan dari Perangkat Lunak, kecuali jika salinan atau turunannya karya semata-mata dalam bentuk kode objek yang dapat dieksekusi mesin yang dihasilkan oleh prosesor bahasa sumber.
 
-**PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK TETAPI TIDAK TERBATAS PADA JAMINAN PENJUALAN DAGANG, KESESUAIAN UNTUK TUJUAN TERTENTU, JUDUL DAN TANPA PELANGGARAN. DALAM KEADAAN APAKAH PEMEGANG HAK CIPTA ATAU SIAPA PUN YANG MENYEBUTKAN PERANGKAT LUNAK INI BERTANGGUNG JAWAB ATAS KERUSAKAN ATAU KEWAJIBAN LAINNYA, BAIK DALAM KONTRAK, KETENTUAN ATAU KATA LAINNYA, BANGKIT DARI, DI LUAR ATAU DALAM HUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN LAINNYA.**
+{% hint style="warning" %}
+PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK TETAPI TIDAK TERBATAS PADA JAMINAN PENJUALAN DAGANG, KESESUAIAN UNTUK TUJUAN TERTENTU, JUDUL DAN TANPA PELANGGARAN. DALAM KEADAAN APAKAH PEMEGANG HAK CIPTA ATAU SIAPA PUN YANG MENYEBUTKAN PERANGKAT LUNAK INI BERTANGGUNG JAWAB ATAS KERUSAKAN ATAU KEWAJIBAN LAINNYA, BAIK DALAM KONTRAK, KETENTUAN ATAU KATA LAINNYA, BANGKIT DARI, DI LUAR ATAU DALAM HUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN LAINNYA.
+{% endhint %}
 
 ## Creative Commons BY-SA 4.0 International
 
@@ -127,9 +129,13 @@ Untuk menghindari keraguan, Bagian 4 ini menambahkan dan tidak menggantikan kewa
 3. Syarat atau ketentuan di bawah Lisensi Publik ini tidak dapat dilepaskan dan tidak ada kelalaian yang diizinkan kecuali secara tegas disetujui demikian oleh Pemberi Lisensi.
 4. Lisensi Publik ini tidak memunculkan atau dapat dianggap sebagai pembatasan dari, atau pelepasan atas, setiap hak dan kekebalan yang berlaku untuk Pemberi Lisensi atau Anda, termasuk dari proses hukum menurut jurisdiksi atau kewenangan apapun.
 
-Creative Commons bukanlah pihak dalam lisensi publik. Walau demikian, Creative Commons dapat memilih untuk menggunakan salah satu dari lisensi publik yang ada untuk materi yang dipublikasikan oleh kami dan dalam hal demikian dianggap sebagai "Pemberi Lisensi." Teks dari lisensi publik Creative Commons disebarluaskan di bawah [Dedikasi Domain Publik CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Kecuali untuk tujuan tertentu dalam hal menyatakan bahwa materi tersebut disebarluaskan di bawah lisensi publik Creative Commons atau sebagaimana diizinkan oleh aturan Creative Commons yang dicantumkan pada [creativecommons.org/policies](https://creativecommons.org/policies), Creative Commons tidak mengizinkan penggunaan merek dagang “Creative Commons” atau setiap merek dagang atau logo Creative Commons tanpa izin tertulis termasuk, tanpa terbatas pada, dalam hubungannya dengan setiap modifikasi tanpa izin yang dilakukan terhadap lisensi publik atau setiap aturan, kesepakatan, atau perjanjian lainnya terkait penggunaan materi berlisensi. Untuk menghindari keraguan, paragraf ini tidak menjadi bagian dari lisensi publik.  
-  
+{% hint style="warning" %}
+Creative Commons bukanlah pihak dalam lisensi publik. Walau demikian, Creative Commons dapat memilih untuk menggunakan salah satu dari lisensi publik yang ada untuk materi yang dipublikasikan oleh kami dan dalam hal demikian dianggap sebagai "Pemberi Lisensi." Teks dari lisensi publik Creative Commons disebarluaskan di bawah [Dedikasi Domain Publik CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Kecuali untuk tujuan tertentu dalam hal menyatakan bahwa materi tersebut disebarluaskan di bawah lisensi publik Creative Commons atau sebagaimana diizinkan oleh aturan Creative Commons yang dicantumkan pada [creativecommons.org/policies](https://creativecommons.org/policies), Creative Commons tidak mengizinkan penggunaan merek dagang “Creative Commons” atau setiap merek dagang atau logo Creative Commons tanpa izin tertulis termasuk, tanpa terbatas pada, dalam hubungannya dengan setiap modifikasi tanpa izin yang dilakukan terhadap lisensi publik atau setiap aturan, kesepakatan, atau perjanjian lainnya terkait penggunaan materi berlisensi. Untuk menghindari keraguan, paragraf ini tidak menjadi bagian dari lisensi publik.
+{% endhint %}
+
+{% hint style="info" %}
 Creative Commons dapat dihubungi melalui [creativecommons.org](https://creativecommons.org/).
+{% endhint %}
 
 ## Creative Common BY 4.0 International
 
@@ -228,7 +234,11 @@ Untuk menghindari keraguan, Bagian 4 ini menambahkan dan tidak menggantikan kewa
 3. Syarat atau ketentuan di bawah Lisensi Publik ini tidak dapat dilepaskan dan tidak ada kelalaian yang diizinkan kecuali secara tegas disetujui demikian oleh Pemberi Lisensi.
 4. Lisensi Publik ini tidak memunculkan atau dapat dianggap sebagai pembatasan dari, atau pelepasan atas, setiap hak dan kekebalan yang berlaku untuk Pemberi Lisensi atau Anda, termasuk dari proses hukum menurut jurisdiksi atau kewenangan apapun.
 
-Creative Commons bukanlah pihak dalam lisensi publik. Walau demikian, Creative Commons dapat memilih untuk menggunakan salah satu dari lisensi publik yang ada untuk materi yang dipublikasikan oleh kami dan dalam hal demikian dianggap sebagai "Pemberi Lisensi." Teks dari lisensi publik Creative Commons disebarluaskan di bawah [Dedikasi Domain Publik CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Kecuali untuk tujuan tertentu dalam hal menyatakan bahwa materi tersebut disebarluaskan di bawah lisensi publik Creative Commons atau sebagaimana diizinkan oleh aturan Creative Commons yang dicantumkan pada [creativecommons.org/policies](https://creativecommons.org/policies), Creative Commons tidak mengizinkan penggunaan merek dagang “Creative Commons” atau setiap merek dagang atau logo Creative Commons tanpa izin tertulis termasuk, tanpa terbatas pada, dalam hubungannya dengan setiap modifikasi tanpa izin yang dilakukan terhadap lisensi publik atau setiap aturan, kesepakatan, atau perjanjian lainnya terkait penggunaan materi berlisensi. Untuk menghindari keraguan, paragraf ini tidak menjadi bagian dari lisensi publik.  
-  
+{% hint style="warning" %}
+Creative Commons bukanlah pihak dalam lisensi publik. Walau demikian, Creative Commons dapat memilih untuk menggunakan salah satu dari lisensi publik yang ada untuk materi yang dipublikasikan oleh kami dan dalam hal demikian dianggap sebagai "Pemberi Lisensi." Teks dari lisensi publik Creative Commons disebarluaskan di bawah [Dedikasi Domain Publik CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Kecuali untuk tujuan tertentu dalam hal menyatakan bahwa materi tersebut disebarluaskan di bawah lisensi publik Creative Commons atau sebagaimana diizinkan oleh aturan Creative Commons yang dicantumkan pada [creativecommons.org/policies](https://creativecommons.org/policies), Creative Commons tidak mengizinkan penggunaan merek dagang “Creative Commons” atau setiap merek dagang atau logo Creative Commons tanpa izin tertulis termasuk, tanpa terbatas pada, dalam hubungannya dengan setiap modifikasi tanpa izin yang dilakukan terhadap lisensi publik atau setiap aturan, kesepakatan, atau perjanjian lainnya terkait penggunaan materi berlisensi. Untuk menghindari keraguan, paragraf ini tidak menjadi bagian dari lisensi publik.
+{% endhint %}
+
+{% hint style="info" %}
 Creative Commons dapat dihubungi melalui [creativecommons.org](https://creativecommons.org/).
+{% endhint %}
 

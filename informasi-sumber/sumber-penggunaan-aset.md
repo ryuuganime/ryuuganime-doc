@@ -11,7 +11,9 @@
 * [**Merriweather**](https://www.fontsquirrel.com/fonts/merriweather) oleh [Sorkin Type Co](http://www.sorkintype.com/) di bawah lisensi [OFL](https://scripts.sil.org/OFL_web).
 * [**Domine**](https://www.fontsquirrel.com/fonts/domine) oleh [Impallari Type](http://www.impallari.com/) di bawah lisensi [OFL](https://scripts.sil.org/OFL_web).
 
-> N.B: Beberapa tipografi digunakan dalam website anime yang tidak memiliki logo resmi di situsnya. Tipografi yang tertera juga tidak akan digunakan untuk kepentingan komersial apabila dalam lisensi yang digunakan tidak diperkenankan untuk menggunakan sebagai bahan komersial pada tipografi tersebut.
+{% hint style="info" %}
+Beberapa tipografi digunakan dalam website anime yang tidak memiliki logo resmi di situsnya. Tipografi yang tertera juga tidak akan digunakan untuk kepentingan komersial apabila dalam lisensi yang digunakan tidak diperkenankan untuk menggunakan sebagai bahan komersial pada tipografi tersebut.
+{% endhint %}
 
 ## Database Indeks Situs
 
@@ -31,5 +33,7 @@
 * [**GitBook**](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=nattadasu) : Penyedia layanan [Wiki](../ketentuan-umum/definisi-kata/#wiki) dalam teknologi Git.
 * \*\*\*\*[**IDCloudHost**](https://idcloudhost.com/) : Penyedia Domain.
 
-> _N.B: Daftar ini masih dalam tahap pengembangan seiring perkembangan situs._
+{% hint style="info" %}
+Daftar ini masih dalam tahap pengembangan seiring perkembangan situs.
+{% endhint %}
 

@@ -1,10 +1,8 @@
----
-description: >-
-  Kode Etik ini diadaptasi dari Contributor Covenant, versi 1.4, tersedia di
-  https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
----
-
 # Kode Etik
+
+{% hint style="info" %}
+Kode Etik ini diadaptasi dari Contributor Covenant, versi 1.4, tersedia di [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
+{% endhint %}
 
 ## Ikrar Kami
 

@@ -1,10 +1,8 @@
----
-description: >-
-  For English speakers, read
-  https://www.privacypolicyonline.com/live.php?token=AssQu2EmC6KjQb73kavY53zNhhscsi2P
----
-
 # Syarat dan Ketentuan \(Terms & Conditions\)
+
+{% hint style="info" %}
+For English speakers, read [https://www.privacypolicyonline.com/live.php?token=AssQu2EmC6KjQb73kavY53zNhhscsi2P](https://www.privacypolicyonline.com/live.php?token=AssQu2EmC6KjQb73kavY53zNhhscsi2P)
+{% endhint %}
 
 Hai dan terima kasih untuk telah menggunakan Ryuuganime sebagai situs [_database_](../ketentuan-umum/definisi-kata/#database-pangkalan-data) [anime](../ketentuan-umum/definisi-kata/#anime) dan indeks laman [_fansub_](../ketentuan-umum/definisi-kata/#fansub), [_fanshare_](../ketentuan-umum/definisi-kata/#fanshare), dan [_fanstreaming_](../ketentuan-umum/definisi-kata/#fanstream) dalam bahasa Indonesia.
 
@@ -19,6 +17,14 @@ Terminologi berikut ini berlaku untuk Syarat dan Ketentuan ini, [Kebijakan Priva
 * "Pihak", "Kontributor", "Komunitas", atau "Kami" mengacu pada Klien dan diri kami sendiri.
 
 Semua istilah mengacu pada penawaran, penerimaan, dan pertimbangan pembayaran yang diperlukan untuk melakukan proses bantuan kami kepada Klien dengan cara yang paling tepat untuk tujuan yang jelas dalam memenuhi kebutuhan Klien sehubungan dengan penyediaan layanan yang dinyatakan Perusahaan, sesuai dengan dan tunduk pada, hukum Belanda yang berlaku. Setiap penggunaan terminologi di atas atau kata-kata lain dalam bentuk tunggal, jamak, huruf besar, dianggap sebagai dapat dipertukarkan dan karena itu merujuk pada yang sama.
+
+{% hint style="warning" %}
+Dokumentasi ini digenerasikan secara otomatis menggunakan  [Generator Daring Syarat & Ketentuan](https://www.privacypolicyonline.com/terms-conditions-generator/), [Generator Gratis Syarat & Ketentuan](https://www.termsconditionsgenerator.com), dan alih bahasa dengan menggunakan bantuan [mesin penerjemah Google](https://translate.google.com/) dengan penyesuaian bahasa oleh Tim Ryuuganime.
+{% endhint %}
+
+{% hint style="warning" %}
+Dokumentasi ini bersifat nonpermanen. Kutipan dan referensi lanjutan mungkin diperlukan dalam penyuntingan dokumen. Perubahan dokumentasi akan disertai/tidak dengan pengumuman publik melalui [Peladen \(Server\)](../ketentuan-umum/definisi-kata/#peladen-server) umum Ryuuganime di Discord.
+{% endhint %}
 
 ## Cookie \(Kuki\)
 

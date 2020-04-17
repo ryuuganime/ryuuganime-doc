@@ -10,6 +10,10 @@ Informasi mengenai _tracker_ yang digunakan oleh Ryuuganime dapat dilihat [disin
 
 Anda dapat melihatnya di [sini](kontributor.md).
 
+## Lisensi Apa yang Digunakan Ryuuganime?
+
+Anda dapat melihatnya di [sini](sk-kebijakan/lisensi.md).
+
 ## Website Ini Menggunakan Jasa Dari Mana?
 
 Ryuuganime menggunakan jasa blogging dari [Blogger](https://blogger.com) oleh [Google](https://google.com) dan domain di [IDCloudHost](https://idcloudhost.com/).  

@@ -148,6 +148,8 @@ Sebuah _**original net animation**_ \(**ONA**\) adalah [anime](./#anime) yang la
 
 **Peladen** \(bahasa Inggris: _server_\) merupakan sebuah sistem komputer yang menyediakan jenis layanan tertentu dalam sebuah jaringan komputer. Peladen didukung dengan prosesor yang bersifat scalable dan RAM yang besar,dan juga dilengkapi dengan sistem operasi khusus, yang disebut sebagai sistem operasi jaringan. Peladen juga menjalankan perangkat lunak administratif yang mengontrol akses terhadap jaringan dan sumber daya yang terdapat di dalamnya contoh sepertihalnya berkas atau pencetak, dan memberikan akses kepada stasiun kerja anggota jaringan.
 
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Peladen)
+
 ## R
 
 ### Repositori \(Kendali Versi\)
@@ -170,7 +172,9 @@ _**Subtitle**_ \(bahasa Indonesia: takarir\) adalah suatu berkas digital terjema
 
 > Sumber: [Brainly](https://brainly.co.id/tugas/10215877#readmore), [KBBI Kemdikbud](https://kbbi.kemdikbud.go.id/entri/takarir)
 
+{% hint style="info" %}
 Biasanya, _**subtitle**_ yang disebarkan oleh kelompok [fansub ](./#fansub)berformat [`.ASS`](definisi-format-berkas.md#ass) atau [`.SRT`](definisi-format-berkas.md#srt).
+{% endhint %}
 
 ## V
 

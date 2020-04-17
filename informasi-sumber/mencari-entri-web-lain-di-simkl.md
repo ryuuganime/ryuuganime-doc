@@ -4,7 +4,9 @@
 
   Pastikan Anda telah memasang ekstensi SIMKL Search di peramban Chrome atau berbasis Chromium \(Opera, Brave, UC Browser, Microsoft Edge Insider, dst\). Apabila belum, Anda dapat mengunduh di [sini](https://chrome.google.com/webstore/detail/simkl-search-select-and-s/mdofghopgfobjkgepojjmcfljnocaaff?hl=en).
 
-  _NB: Untuk sementara, gunakan Google Chrome ataupun peramban lainnya yang berbasis Chromium._
+{% hint style="info" %}
+Untuk sementara, gunakan Google Chrome ataupun peramban lainnya yang berbasis Chromium.
+{% endhint %}
 
 ## Mengimpor Berkas Ekspor ke dalam Ekstensi
 
