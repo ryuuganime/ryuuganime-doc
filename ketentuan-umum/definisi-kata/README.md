@@ -146,9 +146,14 @@ Sebuah _**original net animation**_ \(**ONA**\) adalah [anime](./#anime) yang la
 
 ### Peladen \(Server\)
 
-**Peladen** \(bahasa Inggris: _server_\) merupakan sebuah sistem komputer yang menyediakan jenis layanan tertentu dalam sebuah jaringan komputer. Peladen didukung dengan prosesor yang bersifat scalable dan RAM yang besar,dan juga dilengkapi dengan sistem operasi khusus, yang disebut sebagai sistem operasi jaringan. Peladen juga menjalankan perangkat lunak administratif yang mengontrol akses terhadap jaringan dan sumber daya yang terdapat di dalamnya contoh sepertihalnya berkas atau pencetak, dan memberikan akses kepada stasiun kerja anggota jaringan.
+**Peladen** \(bahasa Inggris: _server_\) merupakan sebuah sistem komputer yang menyediakan jenis layanan tertentu dalam sebuah jaringan komputer. Peladen didukung dengan prosesor yang bersifat scalable dan RAM yang besar,dan juga dilengkapi dengan sistem operasi khusus, yang disebut sebagai sistem operasi jaringan. Peladen juga menjalankan perangkat lunak administratif yang mengontrol akses terhadap jaringan dan sumber daya yang terdapat di dalamnya contoh seperti halnya berkas atau pencetak, dan memberikan akses kepada stasiun kerja anggota jaringan.
 
 > Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Peladen)
+
+{% hint style="info" %}
+Untuk bergabung ke peladen resmi Ryuuganime di Discord, klik link berikut ini:  
+[`nWHwkuT`](https://discord.gg/nWHwkuT)\`\`
+{% endhint %}
 
 ## R
 
