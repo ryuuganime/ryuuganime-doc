@@ -38,7 +38,7 @@ Kode Etik ini berlaku baik di dalam proyek maupun di ruang publik ketika seseora
 
 ## Penegakan
 
-Kejadian perilaku kasar, pelecehan, atau tidak dapat diterima yang terjadi dapat dilaporkan kepada tim inti proyek di nattadasu@my.com. Semua keluhan akan ditinjau, diselidiki dan akan menghasilkan tanggapan yang dianggap perlu dan sesuai dengan keadaan. Tim inti proyek berkewajiban menjaga kerahasiaan pelapor yang berkenaan dengan pelaporan suatu insiden. Rincian lebih lanjut tentang kebijakan penegakan khusus akan dipublikasikan secara terpisah.
+Kejadian perilaku kasar, pelecehan, atau tidak dapat diterima yang terjadi dapat dilaporkan kepada tim inti proyek di [nattadasu@my.com](mailto:nattadasu@my.com) atau [nat.tada.su@icloud.com](mailto:nat.tada.su@icloud.com). Semua keluhan akan ditinjau, diselidiki dan akan menghasilkan tanggapan yang dianggap perlu dan sesuai dengan keadaan. Tim inti proyek berkewajiban menjaga kerahasiaan pelapor yang berkenaan dengan pelaporan suatu insiden. Rincian lebih lanjut tentang kebijakan penegakan khusus akan dipublikasikan secara terpisah.
 
 Pengelola proyek yang tidak mengikuti atau melaksanakan Kode Etik dengan itikad baik mungkin akan menghadapi dampak sementara atau permanen seperti yang ditentukan oleh para anggota lain dari pimpinan proyek.
 
