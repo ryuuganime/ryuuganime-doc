@@ -30,7 +30,8 @@
 
 ## Kontribusi Data
 
-* [Kontribusi Informasi Entri Anime \(HTML\)](kontribusi-data/kontribusi-informasi-entri-anime_html.md)
+* [Format HTML \(Tidak Dilanjutkan\)](kontribusi-data/format-html.md)
+* [Format JSON](kontribusi-data/format-json.md)
 
 ## Ketentuan Database
 
