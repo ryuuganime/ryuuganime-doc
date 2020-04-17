@@ -2,7 +2,7 @@
 
 ## Apa Itu [**Ryuuganime**](https://ryuuganime.blogspot.com)?
 
-Ryuuganime merupakan situs portal indeks [_database_](pkipl/definisi-kata/#database-pangkalan-data) __[_anime_](pkipl/definisi-kata/#anime) ber[subtitel](pkipl/definisi-kata/#subtitle) bahasa Indonesia maupun bahasa Inggris yang menggabungkan tautan [_fansub_](pkipl/definisi-kata/#fansub), dan [_fanshare_](pkipl/definisi-kata/#fanshare) \(termasuk _batch_\) ke dalam satu laman lengkap dengan ulasan dan skor _anime_ dari hampir 20 situs _tracking anime_ dan TV-Movie terkenal.
+Ryuuganime merupakan situs portal indeks [_database_](ketentuan-umum/definisi-kata/#database-pangkalan-data) __[_anime_](ketentuan-umum/definisi-kata/#anime) ber[subtitel](ketentuan-umum/definisi-kata/#subtitle) bahasa Indonesia maupun bahasa Inggris yang menggabungkan tautan [_fansub_](ketentuan-umum/definisi-kata/#fansub), dan [_fanshare_](ketentuan-umum/definisi-kata/#fanshare) \(termasuk _batch_\) ke dalam satu laman lengkap dengan ulasan dan skor _anime_ dari hampir 20 situs _tracking anime_ dan TV-Movie terkenal.
 
 Informasi mengenai _tracker_ yang digunakan oleh Ryuuganime dapat dilihat [disini](informasi-sumber/situs-tracking-yang-digunakan.md).
 
@@ -21,7 +21,7 @@ Informasi mengenai layanan yang digunakan oleh Ryuuganime dapat dilihat [disini]
 
 Ryuuganime dibentuk pada Juni 27, 2019, [lebih tepatnya pada pukul 22.04 WIB](https://www.facebook.com/story.php?story_fbid=771156279946124&id=248649265530164) dikarenakan _website fanshare_ yang terkenal di Indonesia, yaitu [Meownime](https://meownime.com) dan [Meowstream](https://meowstream.com) ditutup secara resmi pada pukul 15.34 WIB di hari yang sama sekaligus merupakan hasil ide dari nattadasu sejak 3 bulan yang lalu.
 
-## Mengapa [_Repo_ ](pkipl/definisi-kata/#repositori-kendali-versi)**Ryuuganime** Ada Di [GitHub](pkipl/definisi-kata/#github)?
+## Mengapa [_Repo_ ](ketentuan-umum/definisi-kata/#repositori-kendali-versi)**Ryuuganime** Ada Di [GitHub](ketentuan-umum/definisi-kata/#github)?
 
 Jika diperhatikan lebih teliti, Ryuuganime memiliki tidak sebatas _icon_ pintasan situs saja, tetapi juga memiliki elemen lainnya \(seperti [_template_](https://github.com/ryuuganime/Ryuuganime/blob/master/Templates/amino.html) dll\) yang tidak memungkinkan kalau data tersebut disimpan di [Google Drive](https://www.google.com/drive/), [Microsoft OneDrive](https://onedrive.live.com/OneDrive), maupun layanan [_cloud storage_](https://id.wikipedia.org/wiki/Penyimpanan_awan) lainnya.
 

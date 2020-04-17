@@ -20,15 +20,15 @@
 
 ## Aplikasi/Layanan yang Digunakan Untuk Proyek/Situs Ini
 
-* [**Microsoft**](https://microsoft.com)**®** [**Office 365**](https://products.office.com/en/explore-office-for-home)**® PowerPoint** : Desain [Vektor](../pkipl/definisi-kata/#vektor-gambar).
-* [**Microsoft**](https://microsoft.com)**®** [**Office 365**](https://products.office.com/en/explore-office-for-home)**® Publisher** : Desain Logo, [Vektor](../pkipl/definisi-kata/#vektor-gambar), Icon, Sampul untuk [SNS](https://en.wikipedia.org/wiki/Social_networking_service) \(Facebook, GitHub, dst\).
+* [**Microsoft**](https://microsoft.com)**®** [**Office 365**](https://products.office.com/en/explore-office-for-home)**® PowerPoint** : Desain [Vektor](../ketentuan-umum/definisi-kata/#vektor-gambar).
+* [**Microsoft**](https://microsoft.com)**®** [**Office 365**](https://products.office.com/en/explore-office-for-home)**® Publisher** : Desain Logo, [Vektor](../ketentuan-umum/definisi-kata/#vektor-gambar), Icon, Sampul untuk [SNS](https://en.wikipedia.org/wiki/Social_networking_service) \(Facebook, GitHub, dst\).
 * [**Microsoft**](https://microsoft.com)**®** [**Office 365**](https://products.office.com/en/explore-office-for-home)**® OneDrive** : Pencadangan _database_ situs.
-* [**Microsoft**](https://microsoft.com)**®** [**Visual Studio Code**](https://code.visualstudio.com) ****: Penyuntingan _code_ dan [`markdown`](../pkipl/definisi-kata/definisi-format-berkas.md#md-markdown).
+* [**Microsoft**](https://microsoft.com)**®** [**Visual Studio Code**](https://code.visualstudio.com) ****: Penyuntingan _code_ dan [`markdown`](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#md-markdown).
 * \*\*\*\*[**GitHub**](https://github.com) : Repositori desain dan _database_ situs.
-* [**EZGif**](https://ezgif.com) ****: _Converter_ ekstensi [`WebP`](../pkipl/definisi-kata/definisi-format-berkas.md#webp) ke [`JPEG`](../pkipl/definisi-kata/definisi-format-berkas.md#jpeg-jpg)/[`PNG`](../pkipl/definisi-kata/definisi-format-berkas.md#png).
-* [**Paint.NET**](https://www.getpaint.net/) **4.1.6** : Penyuntingan Gambar/[Vektor](../pkipl/definisi-kata/#vektor-gambar).
-* [**Inkscape**](https://inkscape.org/) **0.92.3** : Penyuntingan [Vektor](../pkipl/definisi-kata/#wiki) [`SVG`](../pkipl/definisi-kata/definisi-format-berkas.md#svg).
-* [**GitBook**](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=nattadasu) : Penyedia layanan [Wiki](../pkipl/definisi-kata/#wiki) dalam teknologi Git.
+* [**EZGif**](https://ezgif.com) ****: _Converter_ ekstensi [`WebP`](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#webp) ke [`JPEG`](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#jpeg-jpg)/[`PNG`](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#png).
+* [**Paint.NET**](https://www.getpaint.net/) **4.1.6** : Penyuntingan Gambar/[Vektor](../ketentuan-umum/definisi-kata/#vektor-gambar).
+* [**Inkscape**](https://inkscape.org/) **0.92.3** : Penyuntingan [Vektor](../ketentuan-umum/definisi-kata/#wiki) [`SVG`](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#svg).
+* [**GitBook**](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=nattadasu) : Penyedia layanan [Wiki](../ketentuan-umum/definisi-kata/#wiki) dalam teknologi Git.
 * \*\*\*\*[**IDCloudHost**](https://idcloudhost.com/) : Penyedia Domain.
 
 > _N.B: Daftar ini masih dalam tahap pengembangan seiring perkembangan situs._

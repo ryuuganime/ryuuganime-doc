@@ -1,6 +1,6 @@
 # Lisensi
 
-Ryuuganime menggunakan lisensi yang berbeda untuk situs, [repositori](../pkipl/definisi-kata/#repositori-kendali-versi) situs, repositori [_database_](../pkipl/definisi-kata/#database-pangkalan-data), dan repositori [wiki](../pkipl/definisi-kata/#wiki) ini.
+Ryuuganime menggunakan lisensi yang berbeda untuk situs, [repositori](../ketentuan-umum/definisi-kata/#repositori-kendali-versi) situs, repositori [_database_](../ketentuan-umum/definisi-kata/#database-pangkalan-data), dan repositori [wiki](../ketentuan-umum/definisi-kata/#wiki) ini.
 
 Berikut adalah ringkasan singkat untuk lisensi yang digunakan Ryuuganime:
 

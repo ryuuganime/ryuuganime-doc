@@ -12,13 +12,13 @@
 * [Lisensi](sk-kebijakan/lisensi.md)
 * [Kode Etik](sk-kebijakan/kode-etik.md)
 
-## Ketentuan Umum <a id="pkipl"></a>
+## Ketentuan Umum
 
-* [Glosarium](pkipl/definisi-kata/README.md)
-  * [Format Berkas](pkipl/definisi-kata/definisi-format-berkas.md)
-* [Pedoman Entri Database](pkipl/indeks-informasi-tayangan-animasi.md)
-* [Rating Konten Penyiaran Pertelevisian dan Perfilman](pkipl/rating-konten-penyiaran.md)
-* [Pedoman  Indeks Situs Fansub, Fanshare, dan Fanstream](pkipl/indeks-situs-fansub-fanshare-dan-fanstream.md)
+* [Glosarium](ketentuan-umum/definisi-kata/README.md)
+  * [Format Berkas](ketentuan-umum/definisi-kata/definisi-format-berkas.md)
+* [Pedoman Entri Database](ketentuan-umum/indeks-informasi-tayangan-animasi.md)
+* [Rating Konten Penyiaran Pertelevisian dan Perfilman](ketentuan-umum/rating-konten-penyiaran.md)
+* [Pedoman  Indeks Situs Fansub, Fanshare, dan Fanstream](ketentuan-umum/indeks-situs-fansub-fanshare-dan-fanstream.md)
 
 ## Informasi Sumber
 

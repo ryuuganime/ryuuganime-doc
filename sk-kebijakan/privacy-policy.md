@@ -1,30 +1,30 @@
 # Kebijakan Privasi \(Privacy Policy\)
 
-Hai dan terima kasih untuk telah menggunakan Ryuuganime sebagai situs [_database_](../pkipl/definisi-kata/#database-pangkalan-data) [anime](../pkipl/definisi-kata/#anime) dan indeks laman [_fansub_](../pkipl/definisi-kata/#fansub), [_fanshare_](../pkipl/definisi-kata/#fanshare), dan [_fanstreaming_](../pkipl/definisi-kata/#fanstream) dalam bahasa Indonesia.
+Hai dan terima kasih untuk telah menggunakan Ryuuganime sebagai situs [_database_](../ketentuan-umum/definisi-kata/#database-pangkalan-data) [anime](../ketentuan-umum/definisi-kata/#anime) dan indeks laman [_fansub_](../ketentuan-umum/definisi-kata/#fansub), [_fanshare_](../ketentuan-umum/definisi-kata/#fanshare), dan [_fanstreaming_](../ketentuan-umum/definisi-kata/#fanstream) dalam bahasa Indonesia.
 
 Dengan menggunakan layanan ini, Anda telah menyetujui penggunaan data yang Anda berikan kepada pihak Ryuuganime dan pengembang layanan pihak ketiga lainnya.
 
-Secara garis besar, Ryuuganime menggunakan beberapa layanan yang memiliki kebijakan privasi masing-masing. Anda dapat menanyakan langsung kepada pemilik/korporat layanan pihak ketiga yang Ryuuganime gunakan pada situs, [wiki](../pkipl/definisi-kata/#wiki), dan [repositori](../pkipl/definisi-kata/#repositori-kendali-versi) publik.
+Secara garis besar, Ryuuganime menggunakan beberapa layanan yang memiliki kebijakan privasi masing-masing. Anda dapat menanyakan langsung kepada pemilik/korporat layanan pihak ketiga yang Ryuuganime gunakan pada situs, [wiki](../ketentuan-umum/definisi-kata/#wiki), dan [repositori](../ketentuan-umum/definisi-kata/#repositori-kendali-versi) publik.
 
 Ryuuganime menggunakan:
 
 * Blogger - Sebagai layanan penerbitan blog yang menerima blog multi-pengguna dengan entri bertanda waktu;
-* Facebook - Sebagai [widget](../pkipl/definisi-kata/#widget-perangkat-lunak) sosial;
+* Facebook - Sebagai [widget](../ketentuan-umum/definisi-kata/#widget-perangkat-lunak) sosial;
 * Facebook Pixel - Sebagai pelacak aktivitas pengunjung;
 * Flag Counter - Sebagai pelacak aktivitas dan lokasi berdasarkan negara pengunjung;
-* Font Awesome - Sebagai repositori [fon](../pkipl/definisi-kata/#fon) situs;
-* [GitHub](../pkipl/definisi-kata/#github) - Sebagai repositori utama publik Ryuuganime;
-* Gitbook - Sebagai situs pembuat wiki dengan teknologi [Git](../pkipl/definisi-kata/#git);
+* Font Awesome - Sebagai repositori [fon](../ketentuan-umum/definisi-kata/#fon) situs;
+* [GitHub](../ketentuan-umum/definisi-kata/#github) - Sebagai repositori utama publik Ryuuganime;
+* Gitbook - Sebagai situs pembuat wiki dengan teknologi [Git](../ketentuan-umum/definisi-kata/#git);
 * Google AdSense - Sebagai jaringan periklanan;
 * Google Fonts API - Sebagai repositori fon situs;
-* OpenGSE oleh Google - Sebagai web [server](../pkipl/definisi-kata/#peladen-server) situs, dan;
+* OpenGSE oleh Google - Sebagai web [server](../ketentuan-umum/definisi-kata/#peladen-server) situs, dan;
 * Rating Widget - Sebagai widget penghitung skor konten oleh pengguna;
 
 Berikut adalah dokumentasi lengkap untuk kebijakan privasi situs _database_ Ryuuganime, repo publik, dan wiki ini.
 
 > **CATATAN:**  
 > Dokumentasi ini digenerasikan secara otomatis menggunakan [iubenda](https://www.iubenda.com/privacy-policy/56352000) dan telah dialih bahasakan menggunakan Google Translate dengan penyesuaian bahasa oleh Tim Ryuuganime.  
-> Dokumentasi ini bersifat nonpermanen. Kutipan dan referensi lanjutan mungkin diperlukan dalam penyuntingan dokumen. Perubahan dokumentasi akan disertai/tidak dengan pengumuman publik melalui [Peladen \(Server\)](../pkipl/definisi-kata/#peladen-server) umum Ryuuganime di Discord.
+> Dokumentasi ini bersifat nonpermanen. Kutipan dan referensi lanjutan mungkin diperlukan dalam penyuntingan dokumen. Perubahan dokumentasi akan disertai/tidak dengan pengumuman publik melalui [Peladen \(Server\)](../ketentuan-umum/definisi-kata/#peladen-server) umum Ryuuganime di Discord.
 
 ## Pemilik dan Pengontrol Data
 

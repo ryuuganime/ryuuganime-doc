@@ -6,9 +6,9 @@ description: >-
 
 # Syarat dan Ketentuan \(Terms & Conditions\)
 
-Hai dan terima kasih untuk telah menggunakan Ryuuganime sebagai situs [_database_](../pkipl/definisi-kata/#database-pangkalan-data) [anime](../pkipl/definisi-kata/#anime) dan indeks laman [_fansub_](../pkipl/definisi-kata/#fansub), [_fanshare_](../pkipl/definisi-kata/#fanshare), dan [_fanstreaming_](../pkipl/definisi-kata/#fanstream) dalam bahasa Indonesia.
+Hai dan terima kasih untuk telah menggunakan Ryuuganime sebagai situs [_database_](../ketentuan-umum/definisi-kata/#database-pangkalan-data) [anime](../ketentuan-umum/definisi-kata/#anime) dan indeks laman [_fansub_](../ketentuan-umum/definisi-kata/#fansub), [_fanshare_](../ketentuan-umum/definisi-kata/#fanshare), dan [_fanstreaming_](../ketentuan-umum/definisi-kata/#fanstream) dalam bahasa Indonesia.
 
-Dengan menggunakan layanan ini, Anda telah menyetujui Syarat dan Ketentuan penggunaan situs, [repositori](../pkipl/definisi-kata/#repositori-kendali-versi), dan _database_ Ryuuganime.
+Dengan menggunakan layanan ini, Anda telah menyetujui Syarat dan Ketentuan penggunaan situs, [repositori](../ketentuan-umum/definisi-kata/#repositori-kendali-versi), dan _database_ Ryuuganime.
 
 Apabila Anda tidak setuju pada syarat-syarat dan ketentuan penggunaan situs, repositori, dan _database_ Ryuuganime yang telah tercantum pada halaman ini, mohon untuk tidak menggunakan Ryuuganime. Syarat dan Ketentuan kami dibuat dengan bantuan [Generator Daring Syarat & Ketentuan](https://www.privacypolicyonline.com/terms-conditions-generator/), [Generator Gratis Syarat & Ketentuan](https://www.termsconditionsgenerator.com), dan alih bahasa dengan menggunakan bantuan [mesin penerjemah Google](https://translate.google.com/).
 
