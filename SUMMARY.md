@@ -25,7 +25,7 @@
 * [Situs Database Daring Yang Digunakan](informasi-sumber/situs-tracking-yang-digunakan.md)
 * [Daftar Sumber Situs untuk Database Anime](informasi-sumber/sumber-situs-untuk-database-anime.md)
 * [Template](informasi-sumber/template.md)
-* [Daftar Penggunaan Aset](informasi-sumber/sumber-penggunaan-aset.md)
+* [Daftar Penggunaan Aset dan Teknologi](informasi-sumber/sumber-penggunaan-aset.md)
 * [Pencarian Entri Melalui SIMKL Search](informasi-sumber/mencari-entri-web-lain-di-simkl.md)
 
 ## Kontribusi Data

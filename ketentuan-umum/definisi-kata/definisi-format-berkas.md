@@ -35,6 +35,12 @@ File ASS termasuk gaya teks, ruang putih, orientasi teks, dan pengaturan lainnya
 
 > Sumber: [Wikipedia](https://id.wikipedia.org/wiki/JPEG)
 
+### .JSON
+
+ **JSON** \(dilafalkan "Jason"\), singkatan dari JavaScript Object Notation \(bahasa Indonesia: notasi objek JavaScript\), adalah suatu format ringkas pertukaran data komputer. Formatnya berbasis teks dan terbaca-manusia serta digunakan untuk merepresentasikan struktur data sederhana dan larik asosiatif \(disebut objek\). Format JSON sering digunakan untuk mentransmisikan data terstruktur melalui suatu koneksi jaringan pada suatu proses yang disebut serialisasi. Aplikasi utamanya adalah pada pemrograman aplikasi web AJAX dengan berperan sebagai alternatif terhadap penggunaan tradisional format [XML](definisi-format-berkas.md#xml).
+
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/JSON)
+
 ## M
 
 ### .MD / .markdown

@@ -1,4 +1,4 @@
-# Daftar Penggunaan Aset
+# Daftar Penggunaan Aset dan Teknologi
 
 ## Tipografi:
 
