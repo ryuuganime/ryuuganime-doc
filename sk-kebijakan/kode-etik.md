@@ -1,12 +1,16 @@
+---
+description: >-
+  Kode Etik ini diadaptasi dari Contributor Covenant, versi 1.4, tersedia di
+  https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+---
+
 # Kode Etik
 
-## Kode Etik Contributor Covenant
-
-### Ikrar Kami
+## Ikrar Kami
 
 Dalam minat kami untuk menumbuhkan lingkungan yang terbuka dan ramah, kami sebagai kontributor dan pengelola berjanji untuk membuat partisipasi dalam proyek kami dan komunitas kami bebas dari pelecehan bagi semua orang, tanpa memandang usia, ukuran tubuh, disabilitas, kelompok etnis, identitas gender dan ekspresinya, tingkat pengalaman, pendidikan, status sosial ekonomi, kewarganegaraan, penampilan pribadi, ras, agama, atau identitas dan orientasi seksual.
 
-### Standar Kami
+## Standar Kami
 
 Contoh perilaku dalam berkontribusi yang baik untuk menciptakan sebuah lingkungan yang positif meliputi :
 
@@ -24,23 +28,23 @@ Contoh perilaku yang tidak dapat diterima oleh partisipan meliputi :
 * Menerbitkan informasi pribadi orang lain, seperti alamat fisik atau elektronik, tanpa izin.
 * Perilaku lain yang secara wajar dapat dianggap tidak sesuai dalam lingkungan profesional
 
-### Tanggung Jawab Kami
+## Tanggung Jawab Kami
 
 Pengelola proyek bertanggung jawab untuk mengklarifikasi standar perilaku yang dapat diterima dan diharapkan untuk melakukan tindakan korektif yang tepat dan adil dalam menanggapi setiap kasus perilaku yang tidak dapat diterima.
 
 Pengelola proyek mempunyai hak dan tanggung jawab untuk menghapus, mengedit, atau menolak komentar, commit, kode, suntingan wiki, isu, dan kontribusi lainnya yang tidak sesuai dengan Kode Etik ini, atau untuk melarang sementara atau secara permanen, berkontribusi dalam hal perilaku lain yang di anggap tidak pantas, mengancam, menyinggung, atau berbahaya.
 
-### Lingkup
+## Lingkup
 
 Kode Etik ini berlaku baik di dalam proyek maupun di ruang publik ketika seseorang mewakili proyek atau komunitasnya. Contoh dari mewakili sebuah proyek atau komunitas termasuk dalam menggunakan alamat email resmi proyek, posting melalui akun media sosial resmi, atau bertindak sebagai orang yang ditunjuk menjadi perwakilan di acara online atau offline. Representasi proyek mungkin selanjutnya didefinisikan dan diklarifikasi oleh pengelola proyek.
 
-### Penegakan
+## Penegakan
 
 Kejadian perilaku kasar, pelecehan, atau tidak dapat diterima yang terjadi dapat dilaporkan kepada tim inti proyek di nattadasu@my.com. Semua keluhan akan ditinjau, diselidiki dan akan menghasilkan tanggapan yang dianggap perlu dan sesuai dengan keadaan. Tim inti proyek berkewajiban menjaga kerahasiaan pelapor yang berkenaan dengan pelaporan suatu insiden. Rincian lebih lanjut tentang kebijakan penegakan khusus akan dipublikasikan secara terpisah.
 
 Pengelola proyek yang tidak mengikuti atau melaksanakan Kode Etik dengan itikad baik mungkin akan menghadapi dampak sementara atau permanen seperti yang ditentukan oleh para anggota lain dari pimpinan proyek.
 
-### Atribut
+## Atribut
 
 Kode Etik ini diadaptasi dari [Contributor Covenant](https://www.contributor-covenant.org), versi 1.4, tersedia di [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](http://contributor-covenant.org/version/1/4/)
 

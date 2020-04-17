@@ -1,4 +1,4 @@
-# Mencari Entri Web Lain Melalui SIMKL Search
+# Pencarian Entri Melalui SIMKL Search
 
 ## Sebelum Melanjutkan:
 
