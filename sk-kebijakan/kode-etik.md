@@ -4,6 +4,10 @@
 Kode Etik ini diadaptasi dari Contributor Covenant, versi 1.4, tersedia di [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 {% endhint %}
 
+{% hint style="info" %}
+For English speakers, read: [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
+{% endhint %}
+
 ## Ikrar Kami
 
 Dalam minat kami untuk menumbuhkan lingkungan yang terbuka dan ramah, kami sebagai kontributor dan pengelola berjanji untuk membuat partisipasi dalam proyek kami dan komunitas kami bebas dari pelecehan bagi semua orang, tanpa memandang usia, ukuran tubuh, disabilitas, kelompok etnis, identitas gender dan ekspresinya, tingkat pengalaman, pendidikan, status sosial ekonomi, kewarganegaraan, penampilan pribadi, ras, agama, atau identitas dan orientasi seksual.
