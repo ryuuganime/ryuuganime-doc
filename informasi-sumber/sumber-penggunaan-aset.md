@@ -30,8 +30,10 @@ Beberapa fon digunakan dalam website anime yang tidak memiliki logo resmi di sit
 * [**EZGif**](https://ezgif.com) ****: _Converter_ ekstensi [`WebP`](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#webp) ke [`JPEG`](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#jpeg-jpg)/[`PNG`](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#png).
 * [**Paint.NET**](https://www.getpaint.net/) **4.1.6** : Penyuntingan Gambar/[Vektor](../ketentuan-umum/definisi-kata/#vektor-gambar).
 * [**Inkscape**](https://inkscape.org/) **0.92.3** : Penyuntingan [Vektor](../ketentuan-umum/definisi-kata/#wiki) [`SVG`](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#svg).
-* [**GitBook**](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=nattadasu) : Penyedia layanan [Wiki](../ketentuan-umum/definisi-kata/#wiki) dalam teknologi Git.
+* [**GitBook**](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=nattadasu) : Penyedia layanan [Wiki](../ketentuan-umum/definisi-kata/#wiki) dalam teknologi [Git](../ketentuan-umum/definisi-kata/#git).
 * \*\*\*\*[**IDCloudHost**](https://idcloudhost.com/) : Penyedia Domain.
+* [**Sourcerer**](https://sourcerer.io/) : Penampil statika kontribusi.
+* [**Shield.io**](https://shields.io/) : Penampil lencana pada README.md.
 
 {% hint style="info" %}
 Daftar ini masih dalam tahap pengembangan seiring perkembangan situs.
