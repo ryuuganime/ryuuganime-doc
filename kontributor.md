@@ -4,9 +4,9 @@
 
 | Nama | Discord | GitHub | Peranan |
 | :--- | :--- | :--- | :---: |
-| Natsu Tadama | `nattadasu#3867` | nattadasu | Lead Admin |
+| Hatta | `hatta#7126` | Hatta56 | Anime DB Mod |
 | Kazuhito Yamashita | `YamashitaKazuhito#9781` | YamashitaKazuhito | Anime DB Mod, Admin |
-| Hatta | - | Hatta56 | Anime DB Mod |
+| Natsu Tadama | `nattadasu#3867` | nattadasu | Lead Admin |
 | Yae | `Yae#7900` | Yae-chan | Anime DB Mod |
 | Yeheizkiel Gabriel | `Yeski#2637` | yeheizkiel | Anime DB Mod, Site Mod |
 

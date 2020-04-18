@@ -1,7 +1,7 @@
 # Format HTML \(Tidak Dilanjutkan\)
 
 {% hint style="danger" %}
-Pengisian Database dengan menggunakan format berkas HTML akan tidak dilanjutkan pengembangannya. Selainnya, Ryuuganime akan menggunakan JavaScript yang dapat mengambil data database dari [JSON](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#json).
+Pengisian Database dengan menggunakan format berkas HTML akan tidak dilanjutkan pengembangannya. Akan tetapi, Ryuuganime akan menggunakan JavaScript yang dapat mengambil data database dari [JSON](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#json).
 {% endhint %}
 
 {% hint style="warning" %}
