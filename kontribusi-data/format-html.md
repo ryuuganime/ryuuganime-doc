@@ -1,13 +1,13 @@
 # Format HTML \(Tidak Dilanjutkan\)
 
 {% hint style="danger" %}
-Pengisian Database dengan menggunakan format berkas HTML akan tidak dilanjutkan pengembangannya. Akan tetapi, Ryuuganime akan menggunakan JavaScript yang dapat mengambil data database dari [JSON](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#json).
+Pengisian [Database](../ketentuan-umum/definisi-kata/#database-pangkalan-data) dengan menggunakan format berkas [HTML](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#html) akan tidak dilanjutkan pengembangannya. Akan tetapi, Ryuuganime akan menggunakan JavaScript yang dapat mengambil data database dari [JSON](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#json).
 {% endhint %}
 
 {% hint style="warning" %}
-Sebelum melanjutkan, pastikan Anda dapat mengakses website yang telah didaftar di [sini](../informasi-sumber/situs-tracking-yang-digunakan.md).  
+Pastikan Anda dapat mengakses website yang telah didaftar di [sini](../informasi-sumber/situs-tracking-yang-digunakan.md).  
 Disarankan untuk memiliki ekstensi SIMKL Search untuk mempermudah dalam input data. Lihat di [sini](../informasi-sumber/mencari-entri-web-lain-di-simkl.md).  
-Anda juga disarankan untuk telah meng-_fork_ repo Ryuuganime, memasang aplikasi Git dan Visual Studio Code versi terbaru
+Anda juga disarankan untuk telah meng-_fork_ [repo](../ketentuan-umum/definisi-kata/#repositori-kendali-versi) Ryuuganime, memasang aplikasi [Git](../ketentuan-umum/definisi-kata/#git) dan Visual Studio Code \(atau aplikasi teks editor yang mendukung Git\) versi terbaru.
 {% endhint %}
 
 Berikut tata cara menginput data:
@@ -24,7 +24,7 @@ Berikut tata cara menginput data:
 
 8. Lalu, pada informasi episode, isi sesuai yang tertera di MyAnimeList ataupun SIMKL.
 9. Untuk informasi status, memiliki beberapa kasus. Anda dapat melihat rinciannya di [sini](../ketentuan-database/status-penayangan.md).
-10. Pengisian informasi _genre_ dan _tag_ dapat dilihat di [sini ]()mengingat bedanya penggolongan _genre anime_ di MyAnimeList, dst dengan Ryuuganime.
+10. Pengisian informasi _genre_ dan _tag_ dapat dilihat di [sini](../ketentuan-database/genre-dan-tags.md) mengingat bedanya penggolongan _genre anime_ di MyAnimeList, dst dengan Ryuuganime.
 11. Pada saat isi informasi musim, Anda hanya perlu mengisi di bagian `title="Dirilis pada"` di tag `div` dan  `<a href="https://ryuuganime.blogspot.com/search/label/></a>` saja. Tata cara pengisian dapat dilihat di [sini](../ketentuan-database/musim.md).
 12. Isi durasi per episode dalam satuan menit.
 13. Petunjuk pengisian studio dapat dilihat di [sini](../ketentuan-database/studio.md), mengingat beberapa nama studio menggunakan aksara Latin lanjutan.

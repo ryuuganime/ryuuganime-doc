@@ -48,5 +48,5 @@ Pengelola proyek yang tidak mengikuti atau melaksanakan Kode Etik dengan itikad 
 
 ## Atribut
 
-Kode Etik ini diadaptasi dari [Contributor Covenant](https://www.contributor-covenant.org), versi 1.4, tersedia di [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](http://contributor-covenant.org/version/1/4/)
+Kode Etik ini diadaptasi dari [Contributor Covenant](https://www.contributor-covenant.org), versi 1.4, tersedia di [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](http://contributor-covenant.org/version/1/4/).
 

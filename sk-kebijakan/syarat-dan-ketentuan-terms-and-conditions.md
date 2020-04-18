@@ -1,6 +1,10 @@
 # Syarat dan Ketentuan \(Terms & Conditions\)
 
 {% hint style="info" %}
+Ryuuganime Standardized Terms and Condition, ver. 1.0
+{% endhint %}
+
+{% hint style="info" %}
 For English speakers, read [https://www.privacypolicyonline.com/live.php?token=AssQu2EmC6KjQb73kavY53zNhhscsi2P](https://www.privacypolicyonline.com/live.php?token=AssQu2EmC6KjQb73kavY53zNhhscsi2P)
 {% endhint %}
 

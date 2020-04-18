@@ -1,6 +1,10 @@
 # Kebijakan Privasi \(Privacy Policy\)
 
 {% hint style="info" %}
+Ryuuganime Standardized Privacy Policies, ver. 1.0
+{% endhint %}
+
+{% hint style="info" %}
 For English speakers, read [https://www.iubenda.com/privacy-policy/56352000](https://www.iubenda.com/privacy-policy/56352000)
 {% endhint %}
 

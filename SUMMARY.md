@@ -42,3 +42,7 @@
 * [Musim](ketentuan-database/musim.md)
 * [Studio](ketentuan-database/studio.md)
 
+## Scraping Data
+
+* [Pengambilan Data JSON dari DB Ryuuganime](scraping-data/pengambilan-data-json-dari-db-ryuuganime.md)
+
