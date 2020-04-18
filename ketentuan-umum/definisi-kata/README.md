@@ -86,6 +86,14 @@ Karena tindakan pendistribusian "materi yang di-[subtitle ](./#subtitle)oleh fan
 
 **GitHub** adalah layanan hos web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem [kendali versi](./#repositori-kendali-versi) [Git](./#git) dan layanan hosting internet. Hal ini banyak digunakan untuk kode komputer. Ini memberikan kontrol akses dan beberapa fitur kolaborasi seperti pelacakan bug, permintaan fitur, manajemen tugas, dan [wiki](./#wiki) untuk setiap proyek.
 
+## H
+
+### Hirarki \(Hierarki\)
+
+**Hierarki** \(bahasa Yunani: _hierarchia_ \(ἱεραρχία\), dari _hierarches_, "pemimpin ritus suci, imam agung"\) adalah suatu susunan hal \(objek, nama, nilai, kategori, dan sebagainya\) di mana hal-hal tersebut dikemukakan sebagai berada di "atas," "bawah," atau "pada tingkat yang sama" dengan yang lainnya. Secara abstrak, sebuah hierarki adalah sebuah kumpulan yang disusun.
+
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Hierarki)
+
 ## K
 
 ### Kartun

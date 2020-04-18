@@ -7,7 +7,7 @@
 
 ## S&K, Kebijakan, Lisensi, Kode Etik <a id="sk-kebijakan"></a>
 
-* [Syarat dan Ketentuan \(Terms & Conditions\)](sk-kebijakan/syarat-dan-ketentuan-terms-and-conditions.md)
+* [Syarat dan Ketentuan \(Terms & Conditions\)](sk-kebijakan/terms-and-conditions.md)
 * [Kebijakan Privasi \(Privacy Policy\)](sk-kebijakan/privacy-policy.md)
 * [Lisensi](sk-kebijakan/lisensi.md)
 * [Kode Etik](sk-kebijakan/kode-etik.md)
@@ -24,12 +24,13 @@
 
 * [Situs Database Daring Yang Digunakan](informasi-sumber/situs-tracking-yang-digunakan.md)
 * [Daftar Sumber Situs untuk Database Anime](informasi-sumber/sumber-situs-untuk-database-anime.md)
-* [Template](informasi-sumber/template.md)
+* [Templat](informasi-sumber/templat.md)
 * [Daftar Penggunaan Aset dan Teknologi](informasi-sumber/sumber-penggunaan-aset.md)
 * [Pencarian Entri Melalui SIMKL Search](informasi-sumber/mencari-entri-web-lain-di-simkl.md)
 
 ## Kontribusi Data
 
+* [Sebelum Melanjutkan](kontribusi-data/sebelum-melanjutkan.md)
 * [Format HTML \(Tidak Dilanjutkan\)](kontribusi-data/format-html.md)
 * [Format JSON](kontribusi-data/format-json.md)
 

@@ -10,9 +10,5 @@ Disarankan untuk memiliki ekstensi SIMKL Search untuk mempermudah dalam input da
 Anda juga disarankan untuk telah meng-_fork_ [repositori](../ketentuan-umum/definisi-kata/#repositori-kendali-versi) [database](../ketentuan-umum/definisi-kata/#database-pangkalan-data) Ryuuganime, memasang aplikasi [Git](../ketentuan-umum/definisi-kata/#git) dan Visual Studio Code \(atau aplikasi teks editor yang mendukung Git\) versi terbaru.
 {% endhint %}
 
-## Sebelum Memulai
 
-Buka repositori [`ryuuganime/ryuuganime-db`](https://github.com/ryuuganime/ryuuganime-db) yang telah di-clone. Pastikan Anda mengerti dengan sistem hirarki repositori database.
-
-Bentuk hierarki yang digunakan dalam repositori adalah sebagai berikut:
 

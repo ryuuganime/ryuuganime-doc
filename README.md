@@ -18,7 +18,9 @@ Berikut adalah daftar isi Wiki Ryuuganime:
 {% endtab %}
 
 {% tab title="S&K, Kebijakan, Lisensi, Kode Etik" %}
-{% page-ref page="sk-kebijakan/syarat-dan-ketentuan-terms-and-conditions.md" %}
+Membahas Syarat & Ketentuan, Kebijakan Privasi, Lisensi, dan Kode Etik yang digunakan Ryuuganime.
+
+{% page-ref page="sk-kebijakan/terms-and-conditions.md" %}
 
 {% page-ref page="sk-kebijakan/privacy-policy.md" %}
 
@@ -28,11 +30,13 @@ Berikut adalah daftar isi Wiki Ryuuganime:
 {% endtab %}
 
 {% tab title="Ketentuan Umum" %}
+Beberapa informasi dan ketentuan umum yang perlu dipenuhi dalam pendataan sumber.
+
 {% page-ref page="informasi-sumber/situs-tracking-yang-digunakan.md" %}
 
 {% page-ref page="informasi-sumber/sumber-situs-untuk-database-anime.md" %}
 
-{% page-ref page="informasi-sumber/template.md" %}
+{% page-ref page="informasi-sumber/templat.md" %}
 
 {% page-ref page="informasi-sumber/sumber-penggunaan-aset.md" %}
 
@@ -40,6 +44,14 @@ Berikut adalah daftar isi Wiki Ryuuganime:
 {% endtab %}
 
 {% tab title="Kontribusi Data" %}
+Membantu para kontributor dalam memberikan kontribusinya berupa data indeks anime untuk Ryuuganime.
+
+{% page-ref page="kontribusi-data/sebelum-melanjutkan.md" %}
+
+{% hint style="warning" %}
+Membahas bagaimana format penulisan berkas dan sistem hirarki repositori
+{% endhint %}
+
 {% page-ref page="kontribusi-data/format-html.md" %}
 
 {% hint style="danger" %}
@@ -47,9 +59,15 @@ Pengisian Database dengan menggunakan format berkas HTML akan tidak dilanjutkan 
 {% endhint %}
 
 {% page-ref page="kontribusi-data/format-json.md" %}
+
+{% hint style="info" %}
+Format terbaru yang akan digunakan \(_beta stage_\)
+{% endhint %}
 {% endtab %}
 
-{% tab title="Ketentuan Databae" %}
+{% tab title="Ketentuan Database" %}
+Syarat-syarat, tatacara, dan ketentuan yang perlu kontributor ketahui dan dan terapkan dalam mengisi data indeks anime.
+
 {% page-ref page="ketentuan-database/pengambilan-tautan-gambar-backdrop-dan-visual-key.md" %}
 
 {% page-ref page="ketentuan-database/judul-alternatif-dan-sinonima.md" %}
@@ -61,6 +79,12 @@ Pengisian Database dengan menggunakan format berkas HTML akan tidak dilanjutkan 
 {% page-ref page="ketentuan-database/musim.md" %}
 
 {% page-ref page="ketentuan-database/studio.md" %}
+{% endtab %}
+
+{% tab title="Scraping Data" %}
+Bagian ini membahas tata cara untuk para developer website yang ingin menggunakan data JSON Ryuuganime ke dalam website mereka.
+
+{% page-ref page="scraping-data/pengambilan-data-json-dari-db-ryuuganime.md" %}
 {% endtab %}
 {% endtabs %}
 

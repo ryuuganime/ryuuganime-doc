@@ -9,5 +9,4 @@
    4. Tayangan harus telah terdata dalam beberapa situs penyedia [database daring](definisi-kata/#database-daring) pada [daftar berikut ini](../informasi-sumber/situs-tracking-yang-digunakan.md) minimal 3 \(tiga\) situs.
    5. Tayangan memiliki durasi minimal 15 menit per episode untuk `Serial Televisi` atau 50 menit total penayangan.
    6. Tayangan memiliki setidaknya 1 \(satu\) staf dari salah satu dari tiga daerah yang telah disebutkan ATAU staf terkait memiliki pengalaman dalam proses animasi di daerah tersebut.
-4. Tayangan merupakan tayangan dengan _rating_ selain [`GU21+`](rating-konten-penyiaran.md#gu-21). Informasi lebih lanjut mengenai sistem _rating_ dunia dan konversi ke _rating_ standar Ryuuganime, dapat dilihat di [sini](rating-konten-penyiaran.md).
 
