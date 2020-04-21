@@ -188,8 +188,8 @@ Sistem rating yang digunakan oleh Ryuuganime merupakan rating buatan yang mengac
 | [PS2+](rating-konten-penyiaran.md#ps-2) | P2+ | TV-Y | - | - | - | - |
 | [PG7+](rating-konten-penyiaran.md#pg-7) | A7+ | TV-Y7 | - | 7 | 6+ | PG |
 | [PG13+](rating-konten-penyiaran.md#pg-13-1) | R13+/13+ | PG-13/TV-14 | PG-12/R-15 | 12/15 | 12+/15+ | PG-13 |
-| [R18+](rating-konten-penyiaran.md#r-18-1) | D18+/17+ | R/TV-MA/NC-17 | R-18 | R | 18+ | R/R+ |
-| [GU21+](rating-konten-penyiaran.md#ma-21) | 21+ | TV-MA/NC-17 | - | 19 | - | Rx |
+| [R18+](rating-konten-penyiaran.md#r-18-1) | D18+/17+ | R/TV-MA | R-18 | R | 18+ | R/R+ |
+| [GU21+](rating-konten-penyiaran.md#ma-21) | 21+ | NC-17 | - | 19 | - | Rx |
 
 ### Legenda Rating Ryuuganime
 
