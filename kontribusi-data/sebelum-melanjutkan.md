@@ -22,6 +22,10 @@ Dengan merujuk:
 Walaupun dalam grafis hirarki yang digunakan maupun dalam repositori mempunyai format [html](../ketentuan-umum/definisi-kata/definisi-format-berkas.md#html) yang tidak digunakan lagi, berkas tersebut hanya menjadi data cadangan.
 {% endhint %}
 
+{% hint style="danger" %}
+Sistem hirarki ini masih bersifat non permanen, perubahan dapat terjadi sewaktu-waktu.
+{% endhint %}
+
 ## Penulisan Judul Berkas dan Tata Letak Berkas
 
 Penulisan judul berkas ini mungkin terlihat lumayan rumit, karena mempunyai regulasi tertentu.
