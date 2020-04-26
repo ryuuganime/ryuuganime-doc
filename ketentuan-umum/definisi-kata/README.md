@@ -1,10 +1,8 @@
----
-description: >-
-  Halaman ini merupakan arti dari rujukan kata yang digunakan pada wiki
-  Ryuuganime berikut.
----
-
 # Glosarium
+
+{% hint style="info" %}
+Halaman ini merupakan arti dari rujukan kata yang digunakan pada [wiki](./#wiki) Ryuuganime.
+{% endhint %}
 
 ## A
 
@@ -88,6 +86,14 @@ Karena tindakan pendistribusian "materi yang di-[subtitle ](./#subtitle)oleh fan
 
 **GitHub** adalah layanan hos web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem [kendali versi](./#repositori-kendali-versi) [Git](./#git) dan layanan hosting internet. Hal ini banyak digunakan untuk kode komputer. Ini memberikan kontrol akses dan beberapa fitur kolaborasi seperti pelacakan bug, permintaan fitur, manajemen tugas, dan [wiki](./#wiki) untuk setiap proyek.
 
+## H
+
+### Hirarki \(Hierarki\)
+
+**Hierarki** \(bahasa Yunani: _hierarchia_ \(ἱεραρχία\), dari _hierarches_, "pemimpin ritus suci, imam agung"\) adalah suatu susunan hal \(objek, nama, nilai, kategori, dan sebagainya\) di mana hal-hal tersebut dikemukakan sebagai berada di "atas," "bawah," atau "pada tingkat yang sama" dengan yang lainnya. Secara abstrak, sebuah hierarki adalah sebuah kumpulan yang disusun.
+
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Hierarki)
+
 ## K
 
 ### Kartun
@@ -146,7 +152,14 @@ Sebuah _**original net animation**_ \(**ONA**\) adalah [anime](./#anime) yang la
 
 ### Peladen \(Server\)
 
-**Peladen** \(bahasa Inggris: _server_\) merupakan sebuah sistem komputer yang menyediakan jenis layanan tertentu dalam sebuah jaringan komputer. Peladen didukung dengan prosesor yang bersifat scalable dan RAM yang besar,dan juga dilengkapi dengan sistem operasi khusus, yang disebut sebagai sistem operasi jaringan. Peladen juga menjalankan perangkat lunak administratif yang mengontrol akses terhadap jaringan dan sumber daya yang terdapat di dalamnya contoh sepertihalnya berkas atau pencetak, dan memberikan akses kepada stasiun kerja anggota jaringan.
+**Peladen** \(bahasa Inggris: _server_\) merupakan sebuah sistem komputer yang menyediakan jenis layanan tertentu dalam sebuah jaringan komputer. Peladen didukung dengan prosesor yang bersifat scalable dan RAM yang besar,dan juga dilengkapi dengan sistem operasi khusus, yang disebut sebagai sistem operasi jaringan. Peladen juga menjalankan perangkat lunak administratif yang mengontrol akses terhadap jaringan dan sumber daya yang terdapat di dalamnya contoh seperti halnya berkas atau pencetak, dan memberikan akses kepada stasiun kerja anggota jaringan.
+
+> Sumber: [Wikipedia](https://id.wikipedia.org/wiki/Peladen)
+
+{% hint style="info" %}
+Untuk bergabung ke peladen resmi Ryuuganime di Discord, klik link berikut ini:  
+[`nWHwkuT`](https://discord.gg/nWHwkuT)\`\`
+{% endhint %}
 
 ## R
 
@@ -170,7 +183,9 @@ _**Subtitle**_ \(bahasa Indonesia: takarir\) adalah suatu berkas digital terjema
 
 > Sumber: [Brainly](https://brainly.co.id/tugas/10215877#readmore), [KBBI Kemdikbud](https://kbbi.kemdikbud.go.id/entri/takarir)
 
+{% hint style="info" %}
 Biasanya, _**subtitle**_ yang disebarkan oleh kelompok [fansub ](./#fansub)berformat [`.ASS`](definisi-format-berkas.md#ass) atau [`.SRT`](definisi-format-berkas.md#srt).
+{% endhint %}
 
 ## V
 

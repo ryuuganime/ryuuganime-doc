@@ -61,7 +61,9 @@
 
 ## Urutan Pengambilan Data
 
-> Daftar diurutkan dari prioritas \(ditebalkan\) hingga opsi alternatif apabila tidak ditemukan.
+{% hint style="info" %}
+Daftar diurutkan dari prioritas \(ditebalkan\) hingga opsi alternatif apabila tidak ditemukan.
+{% endhint %}
 
 <table>
   <thead>
@@ -90,9 +92,9 @@
     <tr>
       <td style="text-align:left">Sinopsis</td>
       <td style="text-align:left">
-        <p>Indonesia: <b>Otak Otaku</b>, <a href="../pkipl/definisi-kata/#fansub"><em><b>Fansubs</b></em></a><b> yang sedang menggarap</b>,
+        <p>Indonesia: <b>Otak Otaku</b>, <a href="../ketentuan-umum/definisi-kata/#fansub"><em><b>Fansubs</b></em></a><b> yang sedang menggarap</b>,
           <a
-          href="../pkipl/definisi-kata/#fanstream"><b>Fanshare</b>
+          href="../ketentuan-umum/definisi-kata/#fanstream"><b>Fanshare</b>
             </a>&lt;b&gt;&lt;/b&gt;</p>
         <p>Terjemahan: MyAnimeList, Kitsu, Wikipedia, Shikimori, MyShows</p>
       </td>
@@ -124,7 +126,7 @@
         Trakt</td>
     </tr>
     <tr>
-      <td style="text-align:left">&lt;em&gt;&lt;/em&gt;<a href="../pkipl/rating-konten-penyiaran.md"><em>Rating </em>Konten</a>
+      <td style="text-align:left">&lt;em&gt;&lt;/em&gt;<a href="../ketentuan-umum/rating-konten-penyiaran.md"><em>Rating </em>Konten</a>
       </td>
       <td style="text-align:left"><b>TMDB</b>, <b>The TVDB</b>, <b>IMDB</b>, <b>Trakt</b>, <b>SIMKL</b>, MyAnimeList,
         Shikimori, Kitsu</td>

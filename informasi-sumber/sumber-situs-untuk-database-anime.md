@@ -1,8 +1,8 @@
 # Daftar Sumber Situs untuk Database Anime
 
-## DISCLAIMER
-
-  _Ngomong-ngomong_, ini database listnya udah out-to-date _yha_. Akan ada pembaruan selanjutnya mungkin _agak_ sedikit telat.
+{% hint style="danger" %}
+_Ngomong-ngomong_, ini database listnya udah out-to-date _yha_. Akan ada pembaruan selanjutnya mungkin _agak_ sedikit telat.
+{% endhint %}
 
 ### Petunjuk <a id="petunjuk"></a>
 

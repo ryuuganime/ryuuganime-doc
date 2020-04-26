@@ -5,35 +5,45 @@
 * [Donasi](donasi.md)
 * [Tim Utama, Kontributor, dan Donatur](kontributor.md)
 
-## Peraturan, Ketentuan, dan Informasi Penting Lainnya <a id="pkipl"></a>
+## S&K, Kebijakan, Lisensi, Kode Etik <a id="sk-kebijakan"></a>
 
-* [Kebijakan Privasi \(Privacy Policy\)](pkipl/privacy-policy.md)
-* [Kode Etik](pkipl/kode-etik.md)
-* [Glosarium](pkipl/definisi-kata/README.md)
-  * [Format Berkas](pkipl/definisi-kata/definisi-format-berkas.md)
-* [Pedoman Entri Database](pkipl/indeks-informasi-tayangan-animasi.md)
-* [Rating Konten Penyiaran Pertelevisian dan Perfilman](pkipl/rating-konten-penyiaran.md)
-* [Pedoman  Indeks Situs Fansub, Fanshare, dan Fanstream](pkipl/indeks-situs-fansub-fanshare-dan-fanstream.md)
+* [Syarat dan Ketentuan \(Terms & Conditions\)](sk-kebijakan/terms-and-conditions.md)
+* [Kebijakan Privasi \(Privacy Policy\)](sk-kebijakan/privacy-policy.md)
+* [Lisensi](sk-kebijakan/lisensi.md)
+* [Kode Etik](sk-kebijakan/kode-etik.md)
+
+## Ketentuan Umum
+
+* [Glosarium](ketentuan-umum/definisi-kata/README.md)
+  * [Format Berkas](ketentuan-umum/definisi-kata/definisi-format-berkas.md)
+* [Pedoman Entri Database](ketentuan-umum/indeks-informasi-tayangan-animasi.md)
+* [Rating Konten Penyiaran Pertelevisian dan Perfilman](ketentuan-umum/rating-konten-penyiaran.md)
+* [Pedoman  Indeks Situs Fansub, Fanshare, dan Fanstream](ketentuan-umum/indeks-situs-fansub-fanshare-dan-fanstream.md)
 
 ## Informasi Sumber
 
 * [Situs Database Daring Yang Digunakan](informasi-sumber/situs-tracking-yang-digunakan.md)
 * [Daftar Sumber Situs untuk Database Anime](informasi-sumber/sumber-situs-untuk-database-anime.md)
-* [Template](informasi-sumber/template.md)
-* [Daftar Penggunaan Aset](informasi-sumber/sumber-penggunaan-aset.md)
+* [Templat](informasi-sumber/templat.md)
+* [Daftar Penggunaan Aset dan Teknologi](informasi-sumber/sumber-penggunaan-aset.md)
+* [Pencarian Entri Melalui SIMKL Search](informasi-sumber/mencari-entri-web-lain-di-simkl.md)
 
 ## Kontribusi Data
 
-* [Kontribusi Informasi Entri Anime \(HTML\)](kontribusi-data/kontribusi-informasi-entri-anime_html/README.md)
-  * [Mengisi Tautan Gambar dari TMDB dan TVDB](kontribusi-data/kontribusi-informasi-entri-anime_html/mengisi-tautan-gambar-dari-tmdb-dan-tvdb.md)
-  * [Judul Alternatif dan Sinonima](kontribusi-data/kontribusi-informasi-entri-anime_html/judul-alternatif-dan-sinonima.md)
-  * [Status Penayangan](kontribusi-data/kontribusi-informasi-entri-anime_html/status-penayangan.md)
-  * [Genre dan Tag](kontribusi-data/kontribusi-informasi-entri-anime_html/genre-dan-tag.md)
-  * [Musim](kontribusi-data/kontribusi-informasi-entri-anime_html/musim.md)
-  * [Studio](kontribusi-data/kontribusi-informasi-entri-anime_html/studio.md)
+* [Sebelum Melanjutkan](kontribusi-data/sebelum-melanjutkan.md)
+* [Format HTML \(Tidak Dilanjutkan\)](kontribusi-data/format-html.md)
+* [Format JSON](kontribusi-data/format-json.md)
 
 ## Ketentuan Database
 
-* [Mencari Entri Web Lain Melalui SIMKL Search](ketentuan-database/mencari-entri-web-lain-di-simkl.md)
+* [Pengambilan Tautan Gambar Backdrop dan Visual Key](ketentuan-database/pengambilan-tautan-gambar-backdrop-dan-visual-key.md)
+* [Judul Alternatif dan Sinonima](ketentuan-database/judul-alternatif-dan-sinonima.md)
+* [Status Penayangan](ketentuan-database/status-penayangan.md)
 * [Genre dan Tags](ketentuan-database/genre-dan-tags.md)
+* [Musim](ketentuan-database/musim.md)
+* [Studio](ketentuan-database/studio.md)
+
+## Scraping Data
+
+* [Pengambilan Data JSON dari DB Ryuuganime](scraping-data/pengambilan-data-json-dari-db-ryuuganime.md)
 
