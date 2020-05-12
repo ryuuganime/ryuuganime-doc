@@ -44,7 +44,6 @@ Kode Etik ini berlaku di semua ruang lingkup komunitas, dan juga berlaku ketika 
 
 ## Penegakan
 
-
 Kejadian perilaku kasar, pelecehan, atau tidak dapat diterima yang terjadi dapat dilaporkan kepada pengelola komunitas di [sultan.ridita@gmail.com](mailto:sultan.ridita@gmail.com) untuk penegakan. Semua keluhan akan ditinjau dan diselidiki secara tepat dan adil.
 
 Semua pengelola komunitas berkewajiban untuk menjaga kerahasiaan dan keamanan pelapor suatu insiden.
@@ -79,12 +78,9 @@ Pengelola komunitas akan mengikuti Pedoman Dampak Komunitas berikut dalam menent
 
 ## Atribusi
 
-Kode Etik ini diadaptasi dari [Contributor Covenant][homepage], versi 2.0, tersedia di https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Kode Etik ini diadaptasi dari [Contributor Covenant](https://www.contributor-covenant.org), versi 2.0, tersedia di [https://www.contributor-covenant.org/version/2/0/code\_of\_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
 
 Pedoman Dampak Komunitas terinsipirasi dati [Tahapan Pelaksanaan Kode Etik Mozilla](https://github.com/mozilla/diversity).
 
-[homepage]: https://www.contributor-covenant.org
+Untuk jawaban atas pertanyaan umum tentang kode etik ini, lihat FAQ di [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Terjemahan dari Kode Etik ini tersedia di [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
 
-Untuk jawaban atas pertanyaan umum tentang kode etik ini, lihat FAQ di
-https://www.contributor-covenant.org/faq. Terjemahan dari Kode Etik ini tersedia
-di https://www.contributor-covenant.org/translations.

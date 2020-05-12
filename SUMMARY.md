@@ -32,7 +32,10 @@
 
 * [Sebelum Melanjutkan](kontribusi-data/sebelum-melanjutkan.md)
 * [Format HTML \(Tidak Dilanjutkan\)](kontribusi-data/format-html.md)
+* [Format HJSON](kontribusi-data/format-hjson.md)
 * [Format JSON](kontribusi-data/format-json.md)
+* [Format YAML](kontribusi-data/format-yaml.md)
+* [Format XML](kontribusi-data/format-xml.md)
 
 ## Ketentuan Database
 
