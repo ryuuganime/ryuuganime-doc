@@ -27,6 +27,7 @@
 * [Templat](informasi-sumber/templat.md)
 * [Daftar Penggunaan Aset dan Teknologi](informasi-sumber/sumber-penggunaan-aset.md)
 * [Pencarian Entri Melalui SIMKL Search](informasi-sumber/mencari-entri-web-lain-di-simkl.md)
+* [Regulasi Transliterasi](informasi-sumber/regulasi-transliterasi.md)
 
 ## Kontribusi Data
 
