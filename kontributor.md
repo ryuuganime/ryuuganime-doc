@@ -1,20 +1,48 @@
 # Tim Utama, Kontributor, dan Donatur
 
-## Tim Utama Ryuuganime
+## Tim Utama, Kontributor, dan Donatur
+
+### Tim Utama Ryuuganime
 
 | Nama | Discord | GitHub | Peranan |
-| :--- | :--- | :--- | :---: |
-| Hatta | `hatta#7126` | Hatta56 | Anime DB Mod |
-| Kazuhito Yamashita | `YamashitaKazuhito#9781` | YamashitaKazuhito | Anime DB Mod, Admin |
-| Natsu Tadama | `nattadasu#3867` | nattadasu | Lead Admin |
-| Yae | `Yae#7900` | Yae-chan | Anime DB Mod |
-| Yeheizkiel Gabriel | `Yeski#2637` | yeheizkiel | Anime DB Mod, Site Mod |
+| :--- | :--- | :--- | :--- |
+| Hatta | `hatta#7126` | Hatta56 | `DB` |
+| Kazuhito Yamashita | `YamashitaKazuhito#9781` | YamashitaKazuhito | `CO`, `AD`, `DB`, `GX`, `SV`, `RQ` |
+| Natsu Tadama | `nattadasu#3867` | nattadasu | `FD`, `AD`, `ST`, `WK`, `DB`, `GX`, `DV`, `SV`, `IG` |
+| Yae | `Yae#7900` | Yae-chan | `DB`, `DV` |
+| Yeheizkiel Gabriel | `Yeski#2637` | yeheizkiel | `ST`, `DB`, `SH` |
 
-## Kontributor
+### Kontributor
 
 | Nama | Discord | GitHub | Kontribusi |
 | :--- | :--- | :--- | :---: |
 | - | - | - | - |
+
+### Legenda Peranan
+
+#### Peranan Tim
+
+| Kode | Peranan |
+| :---: | :--- |
+| `FD` | Penemu |
+| `CO` | Wakil |
+| `AD` | Administasi |
+| `ST` | Moderasi Situs |
+| `WK` | Moderasi Wiki |
+| `DB` | Moderasi Database |
+| `GX` | Desain Grafis |
+| `DV` | Validasi Data JSON |
+| `SV` | Validasi Situs Eksternal |
+| `SH` | Pengelola Skrip |
+| `RQ` | Perekrut |
+| `IG` | Admin Instagram |
+| `DC` | Moderator Discord |
+
+#### Bentuk Kontribusi
+
+| Kode | Bentuk Kontribusi |
+| :---: | :--- |
+| `GX` | Desain Grafis |
 
 ## Statistik Kontribusi [Repositori](ketentuan-umum/definisi-kata/#repositori-kendali-versi)
 
